@@ -1,0 +1,1517 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FaceForensic++: FaceForensics++: Learning to Detect Manipulated Facial Images. Paper",
+          "description": "Download",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T01:43:11Z",
+            "owner": "ondyari",
+            "repo": "FaceForensics",
+            "stars": 2762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deeper Forensic-1.0: DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection. Paper",
+          "description": "Download",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-09T10:35:55Z",
+            "owner": "EndlessSora",
+            "repo": "DeeperForensics-1.0",
+            "stars": 586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Celeb-DF (v1): Celeb-DF: A Large-scale Challenging Dataset for DeepFake Forensics. Paper",
+          "description": "Download",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-07-12T01:12:46Z",
+            "owner": "yuezunli",
+            "repo": "celeb-deepfakeforensics",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Celeb-DF (v2): Celeb-DF: A Large-scale Challenging Dataset for DeepFake Forensics. Paper",
+          "description": "Download",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-07-12T01:12:46Z",
+            "owner": "yuezunli",
+            "repo": "celeb-deepfakeforensics",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wild Deepfake: WildDeepfake: A Challenging Real-World Dataset for Deepfake Detection. Paper",
+          "description": "Download",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-10T09:28:48Z",
+            "owner": "OpenTAI",
+            "repo": "wild-deepfake",
+            "stars": 241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ForgeryNet: ForgeryNet: A Versatile Benchmark for Comprehensive Forgery Analysis. Paper",
+          "description": "Download",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-15T02:27:47Z",
+            "owner": "yinanhe",
+            "repo": "ForgeryNet",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FakeAVCeleb: FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset. Paper",
+          "description": "Download",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-23T05:12:04Z",
+            "owner": "DASH-Lab",
+            "repo": "FakeAVCeleb",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IDForge: IDForge: An Identity-driven Multimedia Forgery Dataset. Paper",
+          "description": "Download",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-03T14:15:15Z",
+            "owner": "xyyandxyy",
+            "repo": "IDForge",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FFIW-10K: Face Forensics in the Wild. Paper",
+          "description": "Download",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-10-04T11:14:04Z",
+            "owner": "tfzhou",
+            "repo": "FFIW",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Celeb-DF++: Celeb-DF++: A Large-scale Challenging Video DeepFake Benchmark for Generalizable Forensics. Paper",
+          "description": "Download",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-30T04:31:27Z",
+            "owner": "OUC-VAS",
+            "repo": "Celeb-DF-PP",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "Video Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ForgeryNet: ForgeryNet: A Versatile Benchmark for Comprehensive Forgery Analysis. Paper",
+          "description": "Download",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-15T02:27:47Z",
+            "owner": "yinanhe",
+            "repo": "ForgeryNet",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DFGC: DFGC 2021: A DeepFake Game Competition. Paper",
+          "description": "Dowload",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-04T02:13:38Z",
+            "owner": "bomb2peng",
+            "repo": "DFGC_starterkit",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iFakeFaceDB: GANprintR: Improved Fakes and Evaluation of the State of the Art in Face Manipulation Detection. Paper",
+          "description": "Download",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-19T17:01:30Z",
+            "owner": "socialabubi",
+            "repo": "iFakeFaceDB",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Image Datasets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Competitions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Recent Conference Papers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CNN-generated images are surprisingly easy to spot... for now, CVPR 2020: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-26T20:59:16Z",
+            "owner": "PeterWang512",
+            "repo": "CNNDetection",
+            "stars": 1008
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Detecting and Grounding Multi-Modal Media Manipulation, CVPR 2023: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-23T05:50:46Z",
+            "owner": "rshaojimmy",
+            "repo": "MultiModal-DeepFake",
+            "stars": 520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Universal Fake Image Detectors That Generalize Across Generative Models, CVPR 2023: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-06T03:38:50Z",
+            "owner": "WisconsinAIVision",
+            "repo": "UniversalFakeDetect",
+            "stars": 368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection, CVPR 2024: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-01T01:20:29Z",
+            "owner": "chuangchuangtan",
+            "repo": "NPR-DeepfakeDetection",
+            "stars": 311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hierarchical Fine-Grained Image Forgery Detection and Localization, CVPR 2023: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-01T05:07:26Z",
+            "owner": "CHELSEA234",
+            "repo": "HiFi_IFDL",
+            "stars": 302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-Attentional Deepfake Detection, CVPR 2021: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-18T17:53:08Z",
+            "owner": "yoctta",
+            "repo": "multiple-attention",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Detecting Deepfakes with Self-Blended Images, CVPR 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-13T03:19:59Z",
+            "owner": "mapooon",
+            "repo": "SelfBlendedImages",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization, CVPR 2023: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-29T07:46:01Z",
+            "owner": "grip-unina",
+            "repo": "TruFor",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Implicit Identity Leakage: The Stumbling Block to Improving Deepfake Detection Generalization, CVPR 2023: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-08-15T09:38:40Z",
+            "owner": "megvii-research",
+            "repo": "CADDM",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LAA-Net: Localized Artifact Attention Network for Quality-Agnostic and Generalizable Deepfake Detection, CVPR 2024: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-26T16:26:21Z",
+            "owner": "10Ring",
+            "repo": "LAA-Net",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robust Image Forgery Detection Against Transmission Over Online Social Networks, CVPR 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-18T02:02:55Z",
+            "owner": "HighwayWu",
+            "repo": "ImageForensicsOSN",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-supervised Learning of Adversarial Example: Towards Good Generalizations for Deepfake Detection, CVPR 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-29T04:00:29Z",
+            "owner": "liangchen527",
+            "repo": "SLADD",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ForgeryNet: A Versatile Benchmark for Comprehensive Forgery Analysis, CVPR 2021: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-15T02:27:47Z",
+            "owner": "yinanhe",
+            "repo": "ForgeryNet",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "On the Detection of Digital Face Manipulation, CVPR 2020: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-12-09T00:39:41Z",
+            "owner": "JStehouwer",
+            "repo": "FFD_CVPR2020",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning on Gradients: Generalized Artifacts Representation for GAN-Generated Images Detection, CVPR 2023: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-17T08:15:25Z",
+            "owner": "chuangchuangtan",
+            "repo": "LGrad",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-Supervised Video Forensics by Audio-Visual Anomaly Detection, CVPR 2023: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-12T22:25:59Z",
+            "owner": "cfeng16",
+            "repo": "audio-visual-forensics",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rethinking Domain Generalization for Face Anti-spoofing: Separability and Alignment, CVPR 2023: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-12T17:56:28Z",
+            "owner": "sunyiyou",
+            "repo": "SAFAS",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Protecting Celebrities from DeepFake with Identity Consistency Transformer, CVPR 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-18T09:32:53Z",
+            "owner": "LightDXY",
+            "repo": "ICT_DeepFake",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Improving the Efficiency and Robustness of Deepfakes Detection Through Precise Geometric Features, CVPR 2021: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-08T12:05:31Z",
+            "owner": "frederickszk",
+            "repo": "LRNet",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Instance-Aware Domain Generalization for Face Anti-Spoofing, CVPR 2023: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-19T10:10:16Z",
+            "owner": "qianyuzqy",
+            "repo": "IADG",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Representative Forgery Mining for Fake Face Detection, CVPR 2021: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-09T15:05:23Z",
+            "owner": "crywang",
+            "repo": "RFM",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Preserving Fairness Generalization in Deepfake Detection, CVPR 2024: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-31T03:22:10Z",
+            "owner": "Purdue-M2",
+            "repo": "Fairness-Generalization",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CORE: Consistent Representation Learning for Face Forgery Detection, CVPR Workshop 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-06T15:47:38Z",
+            "owner": "niyunsheng",
+            "repo": "CORE",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evading Forensic Classifiers with Attribute-Conditioned Adversarial Faces, CVPR 2023: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-24T10:27:12Z",
+            "owner": "koushiksrivats",
+            "repo": "face_attribute_attack",
+            "stars": 46
+          }
+        }
+      ],
+      "title": "CVPR"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Exploring Temporal Coherence for More General Video Face Forgery Detection, ICCV 2021: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-12T06:38:10Z",
+            "owner": "yinglinzheng",
+            "repo": "FTCN",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Attributing Fake Images to GANs: Learning and Analyzing GAN Fingerprints, ICCV 2019: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-16T22:19:18Z",
+            "owner": "ningyu1991",
+            "repo": "GANFingerprints",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TALL: Thumbnail Layout for Deepfake Video Detection, ICCV 2023: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-07T08:19:01Z",
+            "owner": "rainy-xu",
+            "repo": "TALL4Deepfake",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Artificial Fingerprinting for Generative Models: Rooting Deepfake Attribution in Training Data, ICCV 2021: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-16T18:26:52Z",
+            "owner": "ningyu1991",
+            "repo": "ArtificialGANFingerprints",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ID-Reveal: Identity-aware DeepFake Video Detection, ICCV 2021: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-06-17T13:28:29Z",
+            "owner": "grip-unina",
+            "repo": "id-reveal",
+            "stars": 61
+          }
+        }
+      ],
+      "title": "ICCV"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Detecting and Recovering Sequential DeepFake Manipulation, ECCV 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-03T10:51:16Z",
+            "owner": "rshaojimmy",
+            "repo": "SeqDeepFake",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UIA-ViT: Unsupervised Inconsistency-Aware Method based on Vision Transformer for Face Forgery Detection, ECCV 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-14T04:59:17Z",
+            "owner": "wany0824",
+            "repo": "UIA-ViT",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "ECCV"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeepfakeBench: A Comprehensive Benchmark of Deepfake Detection, NeurIPS 2023: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-20T08:03:47Z",
+            "owner": "SCLBD",
+            "repo": "DeepfakeBench",
+            "stars": 1084
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes, NeurIPS 2024: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-09T09:45:30Z",
+            "owner": "AaronComo",
+            "repo": "LipFD",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WaveFake: A Data Set to Facilitate Audio Deepfake Detection, NeurIPS 2021: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-16T15:54:53Z",
+            "owner": "RUB-SysSec",
+            "repo": "WaveFake",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OST: Improving Generalization of DeepFake Detection via One-Shot Test-Time Training, NeurIPS 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-03T03:34:25Z",
+            "owner": "liangchen527",
+            "repo": "OST",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpeechForensics: Audio-Visual Speech Representation Learning for Face Forgery Detection, NeurIPS 2024: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T07:50:56Z",
+            "owner": "Eleven4AI",
+            "repo": "SpeechForensics",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "NeurIPS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Responsible Disclosure of Generative Models Using Scalable Fingerprinting, ICLR 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-16T22:17:44Z",
+            "owner": "ningyu1991",
+            "repo": "ScalableGANFingerprints",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Poisoned Forgery Face: Towards Backdoor Attacks on Face Forgery Detection, ICLR 2024: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-15T07:03:24Z",
+            "owner": "JWLiang007",
+            "repo": "PFF",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "ICLR"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Leveraging Frequency Analysis for Deep Fake Image Recognition, ICML 2020: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-15T23:43:00Z",
+            "owner": "RUB-SysSec",
+            "repo": "GANDCTAnalysis",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DRCT: Diffusion Reconstruction Contrastive Training towards Universal Detection of Diffusion Generated Images, ICML 2024: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-05T17:19:31Z",
+            "owner": "beibuwandeluori",
+            "repo": "DRCT",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DistilDIRE: A Small, Fast, Cheap and Lightweight Diffusion Synthesized Deepfake Detection, ICML Workshop 2024: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-02T15:07:08Z",
+            "owner": "miraflow",
+            "repo": "DistilDIRE",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "ICML"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Anti-Forgery: Towards a Stealthy and Robust DeepFake Disruption Attack via Adversarial Perceptual-aware Perturbations, IJCAI 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-17T09:19:35Z",
+            "owner": "AbstractTeen",
+            "repo": "AntiForgery",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beyond the Spectrum: Detecting Deepfakes via Re-Synthesis, IJCAI 2021: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-31T19:09:39Z",
+            "owner": "SSAW14",
+            "repo": "BeyondtheSpectrum",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "IJCAI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CMUA-Watermark: A Cross-Model Universal Adversarial Watermark for Combating Deepfakes, AAAI 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-06T02:48:46Z",
+            "owner": "VDIGPKU",
+            "repo": "CMUA-Watermark",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain General Face Forgery Detection by Learning to Weight, AAAI 2021: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-11T03:39:30Z",
+            "owner": "skJack",
+            "repo": "LTW",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deepfake Network Architecture Attribution, AAAI 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-04T14:56:02Z",
+            "owner": "ICTMCG",
+            "repo": "DNA-Det",
+            "stars": 56
+          }
+        }
+      ],
+      "title": "AAAI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset, ACM MM 2021 Workshop: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-23T05:12:04Z",
+            "owner": "DASH-Lab",
+            "repo": "FakeAVCeleb",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Not made for each other- Audio-Visual Dissonance-based Deepfake Detection and Localization, ACM MM 2020: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-13T17:11:31Z",
+            "owner": "abhinavdhall",
+            "repo": "deepfake",
+            "stars": 60
+          }
+        }
+      ],
+      "title": "MM"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wavelet-Packets for Deepfake Image Analysis and Detection, Machine Learning 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T14:32:08Z",
+            "owner": "v0lta",
+            "repo": "PyTorch-Wavelet-Toolbox",
+            "stars": 438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Using Grayscale Frequency Statistic to Detect Manipulated Faces in Wavelet-Domain, SMC 2021: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-04T08:25:12Z",
+            "owner": "wolo-wolo",
+            "repo": "Using-Grayscale-Frequency-Statistic-to-Detect-Manipulated-Faces-in-Wavelet-Domain",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Frequency Based"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection, CVPR 2024: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-01T01:20:29Z",
+            "owner": "chuangchuangtan",
+            "repo": "NPR-DeepfakeDetection",
+            "stars": 311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rethinking Domain Generalization for Face Anti-spoofing: Separability and Alignment, CVPR 2023: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-12T17:56:28Z",
+            "owner": "sunyiyou",
+            "repo": "SAFAS",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "One detector to rule them all: Towards a general deepfake attack detection framework, Proceedings of the Web Conference 2021: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-05-13T06:40:04Z",
+            "owner": "shahroztariq",
+            "repo": "CLRNet",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Supervised Contrastive Learning for Generalizable and Explainable DeepFakes Detection, WACV 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-18T15:41:55Z",
+            "owner": "xuyingzhongguo",
+            "repo": "deepfake_supcon",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Supervised Contrastive Learning for Generalizable and Explainable DeepFakes Detection, WACV 2021: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-18T15:41:55Z",
+            "owner": "xuyingzhongguo",
+            "repo": "deepfake_supcon",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Generalization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "What makes fake images detectable? Understanding properties that generalize, arXiv 2020: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-19T23:25:59Z",
+            "owner": "chail",
+            "repo": "patch-forensics",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Detecting and Recovering Sequential DeepFake Manipulation, ECCV 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-03T10:51:16Z",
+            "owner": "rshaojimmy",
+            "repo": "SeqDeepFake",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Supervised Contrastive Learning for Generalizable and Explainable DeepFakes Detection, WACV 2021: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-18T15:41:55Z",
+            "owner": "xuyingzhongguo",
+            "repo": "deepfake_supcon",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Interpretability"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hierarchical Fine-Grained Image Forgery Detection and Localization, CVPR 2023: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-01T05:07:26Z",
+            "owner": "CHELSEA234",
+            "repo": "HiFi_IFDL",
+            "stars": 302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LAA-Net: Localized Artifact Attention Network for Quality-Agnostic and Generalizable Deepfake Detection, CVPR 2024: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-26T16:26:21Z",
+            "owner": "10Ring",
+            "repo": "LAA-Net",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exploring Spatial-Temporal Features for Deepfake Detection and Localization, arXiv 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-27T14:29:57Z",
+            "owner": "HighwayWu",
+            "repo": "ST-DDL",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Localization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Audio-Visual Person-of-Interest DeepFake Detection, arXiv 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-22T11:54:17Z",
+            "owner": "grip-unina",
+            "repo": "poi-forensics",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EXIF as Language: Learning Cross-Modal Associations Between Images and Camera Metadata, CVPR 2023: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-03T06:44:21Z",
+            "owner": "hellomuffin",
+            "repo": "exif-as-language",
+            "stars": 53
+          }
+        }
+      ],
+      "title": "Multi-modal Based"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Preserving Fairness Generalization in Deepfake Detection, CVPR 2024: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-31T03:22:10Z",
+            "owner": "Purdue-M2",
+            "repo": "Fairness-Generalization",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Comprehensive Analysis of AI Biases in DeepFake Detection With Massively Annotated Databases, arXiv 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-28T08:50:50Z",
+            "owner": "pterhoer",
+            "repo": "DeepFakeAnnotations",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GBDF: Gender Balanced DeepFake Dataset Towards Fair DeepFake Detection, ICPR 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-07-22T21:04:10Z",
+            "owner": "aakash4305",
+            "repo": "GBDF",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Fairness"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CMUA-Watermark: A Cross-Model Universal Adversarial Watermark for Combating Deepfakes, AAAI 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-06T02:48:46Z",
+            "owner": "VDIGPKU",
+            "repo": "CMUA-Watermark",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Artificial Fingerprinting for Generative Models: Rooting Deepfake Attribution in Training Data, ICCV 2021: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-16T18:26:52Z",
+            "owner": "ningyu1991",
+            "repo": "ArtificialGANFingerprints",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anti-Forgery: Towards a Stealthy and Robust DeepFake Disruption Attack via Adversarial Perceptual-aware Perturbations, arXiv 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-17T09:19:35Z",
+            "owner": "AbstractTeen",
+            "repo": "AntiForgery",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FaceSigns: Semi-Fragile Neural Watermarks for Media Authentication and Countering Deepfakes, arXiv 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-04-07T07:07:51Z",
+            "owner": "paarthneekhara",
+            "repo": "FaceSignsDemo",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Responsible Disclosure of Generative Models Using Scalable Fingerprinting, ICLR 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-16T22:17:44Z",
+            "owner": "ningyu1991",
+            "repo": "ScalableGANFingerprints",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "Fingerprint Watermark"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Protecting Celebrities from DeepFake with Identity Consistency Transformer, CVPR 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-18T09:32:53Z",
+            "owner": "LightDXY",
+            "repo": "ICT_DeepFake",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Audio-Visual Person-of-Interest DeepFake Detection, arXiv 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-22T11:54:17Z",
+            "owner": "grip-unina",
+            "repo": "poi-forensics",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ID-Reveal: Identity-aware DeepFake Video Detection, ICCV 2021: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-06-17T13:28:29Z",
+            "owner": "grip-unina",
+            "repo": "id-reveal",
+            "stars": 61
+          }
+        }
+      ],
+      "title": "Identity-Related"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Self-supervised Learning of Adversarial Example: Towards Good Generalizations for Deepfake Detection, CVPR 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-29T04:00:29Z",
+            "owner": "liangchen527",
+            "repo": "SLADD",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TAFIM: Targeted Adversarial Attacks against Facial Image Manipulations, ECCV 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-12T16:14:20Z",
+            "owner": "shivangi-aneja",
+            "repo": "TAFIM",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anti-Forgery: Towards a Stealthy and Robust DeepFake Disruption Attack via Adversarial Perceptual-aware Perturbations, IJCAI 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-17T09:19:35Z",
+            "owner": "AbstractTeen",
+            "repo": "AntiForgery",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Poisoned Forgery Face: Towards Backdoor Attacks on Face Forgery Detection, ICLR 2024: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-15T07:03:24Z",
+            "owner": "JWLiang007",
+            "repo": "PFF",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hiding Faces in Plain Sight: Defending DeepFakes by Disrupting Face Detection, TDSC 2025: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-18T01:49:12Z",
+            "owner": "OUC-VAS",
+            "repo": "FacePoison",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Adversarial Attack"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Robust Image Forgery Detection Against Transmission Over Online Social Networks, TIFS 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-18T02:02:55Z",
+            "owner": "HighwayWu",
+            "repo": "ImageForensicsOSN",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Am I a Real or Fake Celebrity? Evaluating Face Recognition and Verification APIs under Deepfake Impersonation Attack, Proceedings of the ACM Web Conference 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-04-03T17:34:14Z",
+            "owner": "shahroztariq",
+            "repo": "Deepfake_Impersonation_Attack",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Preventing DeepFake Attacks on Speaker Authentication by Dynamic Lip Movement Analysis, TIFS 2021: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-18T10:20:29Z",
+            "owner": "chenzhao-yang",
+            "repo": "lip-based-anti-spoofing",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Real Scenario"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Artificial Fingerprinting for Generative Models: Rooting Deepfake Attribution in Training Data, ICCV 2021: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-16T18:26:52Z",
+            "owner": "ningyu1991",
+            "repo": "ArtificialGANFingerprints",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deepfake Network Architecture Attribution, AAAI 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-04T14:56:02Z",
+            "owner": "ICTMCG",
+            "repo": "DNA-Det",
+            "stars": 56
+          }
+        }
+      ],
+      "title": "Source Model Attribution"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:33:21.943Z",
+    "original_repository": "Daisy-Zhang/Awesome-Deepfakes-Detection",
+    "original_repository_sha": "07b77a42d38859b9ec03085bcf38bf6f82d89e40",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Deepfakes-Detection",
+    "enhanced_repository_description": null,
+    "title": "Awesome Deepfakes Detection with stars"
+  }
+}
