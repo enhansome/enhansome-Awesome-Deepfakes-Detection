@@ -19,7 +19,7 @@
             "last_commit": "2022-12-08T01:43:11Z",
             "owner": "ondyari",
             "repo": "FaceForensics",
-            "stars": 2764
+            "stars": 2761
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2023-07-12T01:12:46Z",
             "owner": "yuezunli",
             "repo": "celeb-deepfakeforensics",
-            "stars": 332
+            "stars": 331
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2023-07-12T01:12:46Z",
             "owner": "yuezunli",
             "repo": "celeb-deepfakeforensics",
-            "stars": 332
+            "stars": 331
           }
         },
         {
@@ -94,20 +94,6 @@
         },
         {
           "node_type": "item",
-          "title": "FakeAVCeleb: FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset. Paper",
-          "description": "Download",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-12-23T05:12:04Z",
-            "owner": "DASH-Lab",
-            "repo": "FakeAVCeleb",
-            "stars": 123
-          }
-        },
-        {
-          "node_type": "item",
           "title": "IDForge: IDForge: An Identity-driven Multimedia Forgery Dataset. Paper",
           "description": "Download",
           "children": [],
@@ -118,6 +104,20 @@
             "owner": "xyyandxyy",
             "repo": "IDForge",
             "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FakeAVCeleb: FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset. Paper",
+          "description": "Download",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-23T05:12:04Z",
+            "owner": "DASH-Lab",
+            "repo": "FakeAVCeleb",
+            "stars": 120
           }
         },
         {
@@ -223,7 +223,7 @@
             "last_commit": "2024-07-26T20:59:16Z",
             "owner": "PeterWang512",
             "repo": "CNNDetection",
-            "stars": 1008
+            "stars": 1007
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2024-04-23T05:50:46Z",
             "owner": "rshaojimmy",
             "repo": "MultiModal-DeepFake",
-            "stars": 520
+            "stars": 518
           }
         },
         {
@@ -251,7 +251,7 @@
             "last_commit": "2025-01-06T03:38:50Z",
             "owner": "WisconsinAIVision",
             "repo": "UniversalFakeDetect",
-            "stars": 368
+            "stars": 369
           }
         },
         {
@@ -293,7 +293,7 @@
             "last_commit": "2022-02-18T17:53:08Z",
             "owner": "yoctta",
             "repo": "multiple-attention",
-            "stars": 277
+            "stars": 276
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2025-05-29T07:46:01Z",
             "owner": "grip-unina",
             "repo": "TruFor",
-            "stars": 267
+            "stars": 268
           }
         },
         {
@@ -377,7 +377,7 @@
             "last_commit": "2022-05-29T04:00:29Z",
             "owner": "liangchen527",
             "repo": "SLADD",
-            "stars": 142
+            "stars": 141
           }
         },
         {
@@ -531,7 +531,7 @@
             "last_commit": "2023-04-06T15:47:38Z",
             "owner": "niyunsheng",
             "repo": "CORE",
-            "stars": 54
+            "stars": 53
           }
         },
         {
@@ -675,7 +675,7 @@
             "last_commit": "2025-08-20T08:03:47Z",
             "owner": "SCLBD",
             "repo": "DeepfakeBench",
-            "stars": 1085
+            "stars": 1084
           }
         },
         {
@@ -813,7 +813,7 @@
             "last_commit": "2024-08-02T15:07:08Z",
             "owner": "miraflow",
             "repo": "DistilDIRE",
-            "stars": 36
+            "stars": 35
           }
         }
       ],
@@ -915,7 +915,7 @@
             "last_commit": "2021-12-23T05:12:04Z",
             "owner": "DASH-Lab",
             "repo": "FakeAVCeleb",
-            "stars": 123
+            "stars": 120
           }
         },
         {
@@ -1361,7 +1361,7 @@
             "last_commit": "2022-05-29T04:00:29Z",
             "owner": "liangchen527",
             "repo": "SLADD",
-            "stars": 142
+            "stars": 141
           }
         },
         {
@@ -1507,7 +1507,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:07:51.173Z",
+    "last_updated": "2026-08-15T01:58:04.370Z",
     "original_repository": "Daisy-Zhang/Awesome-Deepfakes-Detection",
     "original_repository_sha": "07b77a42d38859b9ec03085bcf38bf6f82d89e40",
     "enhanced_repository": "enhansome/enhansome-Awesome-Deepfakes-Detection",
