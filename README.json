@@ -19,7 +19,7 @@
             "last_commit": "2022-12-08T01:43:11Z",
             "owner": "ondyari",
             "repo": "FaceForensics",
-            "stars": 2763
+            "stars": 2764
           }
         },
         {
@@ -223,7 +223,7 @@
             "last_commit": "2024-07-26T20:59:16Z",
             "owner": "PeterWang512",
             "repo": "CNNDetection",
-            "stars": 1007
+            "stars": 1006
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2024-04-23T05:50:46Z",
             "owner": "rshaojimmy",
             "repo": "MultiModal-DeepFake",
-            "stars": 518
+            "stars": 517
           }
         },
         {
@@ -675,7 +675,7 @@
             "last_commit": "2025-08-20T08:03:47Z",
             "owner": "SCLBD",
             "repo": "DeepfakeBench",
-            "stars": 1085
+            "stars": 1087
           }
         },
         {
@@ -1507,7 +1507,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:07:32.620Z",
+    "last_updated": "2026-08-17T02:04:53.484Z",
     "original_repository": "Daisy-Zhang/Awesome-Deepfakes-Detection",
     "original_repository_sha": "07b77a42d38859b9ec03085bcf38bf6f82d89e40",
     "enhanced_repository": "enhansome/enhansome-Awesome-Deepfakes-Detection",
