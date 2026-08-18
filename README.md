@@ -323,7 +323,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 ## Frequency Based
 
-* Wavelet-Packets for Deepfake Image Analysis and Detection, *Machine Learning* 2022: [Paper](https://link.springer.com/article/10.1007/s10994-022-06225-5) [Github](https://github.com/v0lta/PyTorch-Wavelet-Toolbox) ⭐ 438 | 🐛 9 | 🌐 Python | 📅 2026-07-20
+* Wavelet-Packets for Deepfake Image Analysis and Detection, *Machine Learning* 2022: [Paper](https://link.springer.com/article/10.1007/s10994-022-06225-5) [Github](https://github.com/v0lta/PyTorch-Wavelet-Toolbox) ⭐ 439 | 🐛 9 | 🌐 Python | 📅 2026-07-20
 * Using Grayscale Frequency Statistic to Detect Manipulated Faces in Wavelet-Domain, *SMC* 2021: [Paper](https://ieeexplore.ieee.org/abstract/document/9658971/) [Github](https://github.com/wolo-wolo/Using-Grayscale-Frequency-Statistic-to-Detect-Manipulated-Faces-in-Wavelet-Domain) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2021-04-04
 * FrePGAN: Robust Deepfake Detection Using Frequency-level Perturbations, *AAAI* 2022: [Paper](https://arxiv.org/abs/2202.03347)
 * Exploiting Fine-grained Face Forgery Clues via Progressive Enhancement Learning, *AAAI* 2022: [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/19954)
@@ -552,4 +552,4 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
