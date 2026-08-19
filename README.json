@@ -19,7 +19,7 @@
             "last_commit": "2022-12-08T01:43:11Z",
             "owner": "ondyari",
             "repo": "FaceForensics",
-            "stars": 2764
+            "stars": 2765
           }
         },
         {
@@ -265,7 +265,7 @@
             "last_commit": "2025-05-01T01:20:29Z",
             "owner": "chuangchuangtan",
             "repo": "NPR-DeepfakeDetection",
-            "stars": 311
+            "stars": 312
           }
         },
         {
@@ -307,7 +307,7 @@
             "last_commit": "2026-03-13T03:19:59Z",
             "owner": "mapooon",
             "repo": "SelfBlendedImages",
-            "stars": 272
+            "stars": 273
           }
         },
         {
@@ -675,7 +675,7 @@
             "last_commit": "2025-08-20T08:03:47Z",
             "owner": "SCLBD",
             "repo": "DeepfakeBench",
-            "stars": 1087
+            "stars": 1089
           }
         },
         {
@@ -983,7 +983,7 @@
             "last_commit": "2025-05-01T01:20:29Z",
             "owner": "chuangchuangtan",
             "repo": "NPR-DeepfakeDetection",
-            "stars": 311
+            "stars": 312
           }
         },
         {
@@ -1507,7 +1507,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T01:59:22.609Z",
+    "last_updated": "2026-08-19T02:03:38.748Z",
     "original_repository": "Daisy-Zhang/Awesome-Deepfakes-Detection",
     "original_repository_sha": "07b77a42d38859b9ec03085bcf38bf6f82d89e40",
     "enhanced_repository": "enhansome/enhansome-Awesome-Deepfakes-Detection",
