@@ -119,7 +119,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 * CNN-generated images are surprisingly easy to spot... for now, *CVPR* 2020: [Paper](https://arxiv.org/abs/1912.11035)    [Github](https://github.com/PeterWang512/CNNDetection) ⭐ 1,006 | 🐛 23 | 🌐 Python | 📅 2024-07-26
 * Detecting and Grounding Multi-Modal Media Manipulation, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Shao_Detecting_and_Grounding_Multi-Modal_Media_Manipulation_CVPR_2023_paper.pdf) [Github](https://github.com/rshaojimmy/MultiModal-DeepFake) ⭐ 517 | 🐛 18 | 🌐 Python | 📅 2024-04-23
-* Towards Universal Fake Image Detectors That Generalize Across Generative Models, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Ojha_Towards_Universal_Fake_Image_Detectors_That_Generalize_Across_Generative_Models_CVPR_2023_paper.pdf) [Github](https://github.com/Yuheng-Li/UniversalFakeDetect) ⭐ 370 | 🐛 24 | 🌐 Python | 📅 2025-01-06
+* Towards Universal Fake Image Detectors That Generalize Across Generative Models, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Ojha_Towards_Universal_Fake_Image_Detectors_That_Generalize_Across_Generative_Models_CVPR_2023_paper.pdf) [Github](https://github.com/Yuheng-Li/UniversalFakeDetect) ⭐ 370 | 🐛 24 | 🌐 Python | 📅 2026-08-19
 * Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection, *CVPR* 2024: [Paper](https://arxiv.org/abs/2312.10461) [Github](https://github.com/chuangchuangtan/NPR-DeepfakeDetection) ⭐ 312 | 🐛 25 | 🌐 Python | 📅 2025-05-01
 * Hierarchical Fine-Grained Image Forgery Detection and Localization, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Guo_Hierarchical_Fine-Grained_Image_Forgery_Detection_and_Localization_CVPR_2023_paper.pdf) [Github](https://github.com/CHELSEA234/HiFi_IFDL) ⭐ 302 | 🐛 14 | 🌐 Python | 📅 2025-07-01
 * Multi-Attentional Deepfake Detection, *CVPR* 2021: [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhao_Multi-Attentional_Deepfake_Detection_CVPR_2021_paper.html)    [Github](https://github.com/yoctta/multiple-attention) ⭐ 275 | 🐛 24 | 🌐 Python | 📅 2022-02-18
@@ -552,4 +552,4 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
