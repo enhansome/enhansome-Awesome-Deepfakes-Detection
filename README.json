@@ -232,7 +232,7 @@
                 "last_commit": "2024-07-26T20:59:16Z",
                 "owner": "PeterWang512",
                 "repo": "CNNDetection",
-                "stars": 1007
+                "stars": 1006
               }
             },
             {
@@ -1612,7 +1612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T01:58:38.852Z",
+    "last_updated": "2026-08-23T02:09:50.058Z",
     "original_repository": "Daisy-Zhang/Awesome-Deepfakes-Detection",
     "original_repository_id": 381603523,
     "original_repository_sha": "07b77a42d38859b9ec03085bcf38bf6f82d89e40",
