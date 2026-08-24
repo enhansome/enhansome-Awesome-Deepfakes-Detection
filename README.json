@@ -472,7 +472,7 @@
                 "last_commit": "2023-04-12T17:56:28Z",
                 "owner": "sunyiyou",
                 "repo": "SAFAS",
-                "stars": 102
+                "stars": 103
               }
             },
             {
@@ -659,7 +659,7 @@
                 "last_commit": "2023-06-17T13:28:29Z",
                 "owner": "grip-unina",
                 "repo": "id-reveal",
-                "stars": 61
+                "stars": 60
               }
             }
           ],
@@ -718,7 +718,7 @@
                 "last_commit": "2025-08-20T08:03:47Z",
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1090
+                "stars": 1091
               }
             },
             {
@@ -1070,7 +1070,7 @@
             "last_commit": "2023-04-12T17:56:28Z",
             "owner": "sunyiyou",
             "repo": "SAFAS",
-            "stars": 102
+            "stars": 103
           }
         },
         {
@@ -1436,7 +1436,7 @@
             "last_commit": "2023-06-17T13:28:29Z",
             "owner": "grip-unina",
             "repo": "id-reveal",
-            "stars": 61
+            "stars": 60
           }
         }
       ],
@@ -1612,7 +1612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:09:50.058Z",
+    "last_updated": "2026-08-24T02:08:43.931Z",
     "original_repository": "Daisy-Zhang/Awesome-Deepfakes-Detection",
     "original_repository_id": 381603523,
     "original_repository_sha": "07b77a42d38859b9ec03085bcf38bf6f82d89e40",
