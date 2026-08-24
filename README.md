@@ -406,6 +406,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 ## Biological Signal
 
+* DeepFakesON-Phys: DeepFakes Detection based on Heart Rate Estimation, *arXiv* 2020: [Paper](https://arxiv.org/abs/2010.00400) [Github](https://github.com/BiDAlab/DeepFakesON-Phys) ⭐ 54 | 🐛 3 | 🌐 Python | 📅 2022-04-12
 * Local attention and long-distance interaction of rPPG for deepfake detection, *The Visual Computer* 2023: [Paper](https://link.springer.com/article/10.1007/s00371-023-02833-x)
 * Benchmarking Joint Face Spoofing and Forgery Detection with Visual and Physiological Cues, *arXiv* 2022: [Paper](https://arxiv.org/abs/2208.05401)
 * Visual Representations of Physiological Signals for Fake Video Detection, *arXiv* 2022: [Paper](https://arxiv.org/abs/2207.08380)
@@ -416,7 +417,6 @@ This repository only collects papers related to Deepfake Detection. If you are a
 * Exposing Deepfake with Pixel-wise Autoregressive and PPG Correlation from Faint Signals, *arXiv* 2021: [Paper](https://arxiv.org/abs/2110.15561)
 * FakeCatcher: Detection of Synthetic Portrait Videos using Biological Signals, *TPAMI* 2020: [Paper](https://ieeexplore.ieee.org/abstract/document/9141516/)
 * How Do the Hearts of Deep Fakes Beat? Deep Fake Source Detection via Interpreting Residuals with Biological Signals, *IJCB* 2020: [Paper](https://ieeexplore.ieee.org/abstract/document/9304909/)
-* DeepFakesON-Phys: DeepFakes Detection based on Heart Rate Estimation, *arXiv* 2020: [Paper](https://arxiv.org/abs/2010.00400) [Github](https://github.com/BiDAlab/DeepFakesON-Phys) ⭐ 54 | 🐛 3 | 🌐 Python | 📅 2022-04-12
 * Predicting Heart Rate Variations of Deepfake Videos using Neural ODE, *ICCV Workshop* 2019: [Paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/CVPM/Fernandes_Predicting_Heart_Rate_Variations_of_Deepfake_Videos_using_Neural_ODE_ICCVW_2019_paper.pdf)
 
 ## Robustness

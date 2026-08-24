@@ -1264,6 +1264,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "DeepFakesON-Phys: DeepFakes Detection based on Heart Rate Estimation, arXiv 2020: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 310643472,
+            "language": "Python",
+            "last_commit": "2022-04-12T09:17:01Z",
+            "owner": "BiDAlab",
+            "repo": "DeepFakesON-Phys",
+            "stars": 54
+          }
+        }
+      ],
+      "title": "Biological Signal"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LAA-Net: Localized Artifact Attention Network for Quality-Agnostic and Generalizable Deepfake Detection, CVPR 2024: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 759775496,
+            "language": "Python",
+            "last_commit": "2025-11-26T16:26:21Z",
+            "owner": "10Ring",
+            "repo": "LAA-Net",
+            "stars": 177
+          }
+        }
+      ],
+      "title": "Robustness"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Preserving Fairness Generalization in Deepfake Detection, CVPR 2024: Paper",
           "description": "Github",
           "children": [],
@@ -1579,6 +1621,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Self-Supervised Video Forensics by Audio-Visual Anomaly Detection, arXiv 2023: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 572758615,
+            "language": "Python",
+            "last_commit": "2024-05-12T22:25:59Z",
+            "owner": "cfeng16",
+            "repo": "audio-visual-forensics",
+            "stars": 113
+          }
+        }
+      ],
+      "title": "Anomaly Detection"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Self-Supervised Video Forensics by Audio-Visual Anomaly Detection, arXiv 2023: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 572758615,
+            "language": "Python",
+            "last_commit": "2024-05-12T22:25:59Z",
+            "owner": "cfeng16",
+            "repo": "audio-visual-forensics",
+            "stars": 113
+          }
+        }
+      ],
+      "title": "Self-Supervised Learning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Artificial Fingerprinting for Generative Models: Rooting Deepfake Attribution in Training Data, ICCV 2021: Paper",
           "description": "Github",
           "children": [],
@@ -1609,10 +1693,94 @@
         }
       ],
       "title": "Source Model Attribution"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FedForgery: Generalized Face Forgery Detection with Residual Federated Learning, arXiv 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 548684731,
+            "language": "Python",
+            "last_commit": "2024-01-20T10:26:41Z",
+            "owner": "GANG370",
+            "repo": "FedForgery",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Federated Learning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Confidence-Calibrated Face Image Forgery Detection with Contrastive Representation Distillation, ACCV 2022: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 541575135,
+            "language": "Python",
+            "last_commit": "2022-09-26T13:40:57Z",
+            "owner": "Puning97",
+            "repo": "CDC_face_forgery_detection",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Knowledge Distillation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Domain General Face Forgery Detection by Learning to Weight, AAAI 2021: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 320457732,
+            "language": "Python",
+            "last_commit": "2020-12-11T03:39:30Z",
+            "owner": "skJack",
+            "repo": "LTW",
+            "stars": 61
+          }
+        }
+      ],
+      "title": "Meta-Learning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A guided-based approach for deepfake detection: RGB-depth integration via features fusion, Pattern Recognition Letters 2024: Paper",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 605518417,
+            "language": "Python",
+            "last_commit": "2023-06-17T07:57:23Z",
+            "owner": "gleporoni",
+            "repo": "rgbd-depthfake",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Depth Based"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:08:43.931Z",
+    "last_updated": "2026-08-24T14:08:46.321Z",
     "original_repository": "Daisy-Zhang/Awesome-Deepfakes-Detection",
     "original_repository_id": 381603523,
     "original_repository_sha": "07b77a42d38859b9ec03085bcf38bf6f82d89e40",
