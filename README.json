@@ -247,7 +247,7 @@
                 "last_commit": "2024-04-23T05:50:46Z",
                 "owner": "rshaojimmy",
                 "repo": "MultiModal-DeepFake",
-                "stars": 517
+                "stars": 518
               }
             },
             {
@@ -718,7 +718,7 @@
                 "last_commit": "2025-08-20T08:03:47Z",
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1091
+                "stars": 1092
               }
             },
             {
@@ -1780,7 +1780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:07:39.375Z",
+    "last_updated": "2026-08-26T02:09:45.472Z",
     "original_repository": "Daisy-Zhang/Awesome-Deepfakes-Detection",
     "original_repository_id": 381603523,
     "original_repository_sha": "07b77a42d38859b9ec03085bcf38bf6f82d89e40",
