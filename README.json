@@ -75,7 +75,7 @@
                 "id": 218060085,
                 "language": null,
                 "last_commit": "2025-12-10T09:28:48Z",
-                "owner": "OpenTAI",
+                "owner": "xingjunm",
                 "repo": "wild-deepfake",
                 "stars": 241
               }
@@ -152,7 +152,7 @@
                 "last_commit": "2026-06-30T04:31:27Z",
                 "owner": "OUC-VAS",
                 "repo": "Celeb-DF-PP",
-                "stars": 36
+                "stars": 37
               }
             }
           ],
@@ -718,7 +718,7 @@
                 "last_commit": "2025-08-20T08:03:47Z",
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1092
+                "stars": 1094
               }
             },
             {
@@ -1019,7 +1019,7 @@
             "last_commit": "2026-07-20T14:32:08Z",
             "owner": "v0lta",
             "repo": "PyTorch-Wavelet-Toolbox",
-            "stars": 439
+            "stars": 440
           }
         },
         {
@@ -1780,7 +1780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:09:45.472Z",
+    "last_updated": "2026-08-27T10:10:04.949Z",
     "original_repository": "Daisy-Zhang/Awesome-Deepfakes-Detection",
     "original_repository_id": 381603523,
     "original_repository_sha": "07b77a42d38859b9ec03085bcf38bf6f82d89e40",
