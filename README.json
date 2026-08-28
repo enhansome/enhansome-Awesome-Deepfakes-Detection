@@ -17,8 +17,9 @@
                 "last_commit": "2022-12-08T01:43:11Z",
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2764
-              }
+                "stars": 2765
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "EndlessSora",
                 "repo": "DeeperForensics-1.0",
                 "stars": 585
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "yuezunli",
                 "repo": "celeb-deepfakeforensics",
                 "stars": 332
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "yuezunli",
                 "repo": "celeb-deepfakeforensics",
                 "stars": 332
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "xingjunm",
                 "repo": "wild-deepfake",
                 "stars": 241
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -92,8 +97,9 @@
                 "last_commit": "2021-07-15T02:27:47Z",
                 "owner": "yinanhe",
                 "repo": "ForgeryNet",
-                "stars": 127
-              }
+                "stars": 128
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -107,8 +113,9 @@
                 "last_commit": "2026-08-03T14:15:15Z",
                 "owner": "xyyandxyy",
                 "repo": "IDForge",
-                "stars": 121
-              }
+                "stars": 122
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "DASH-Lab",
                 "repo": "FakeAVCeleb",
                 "stars": 120
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "tfzhou",
                 "repo": "FFIW",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "OUC-VAS",
                 "repo": "Celeb-DF-PP",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             }
           ],
           "description": null,
@@ -174,8 +184,9 @@
                 "last_commit": "2021-07-15T02:27:47Z",
                 "owner": "yinanhe",
                 "repo": "ForgeryNet",
-                "stars": 127
-              }
+                "stars": 128
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "bomb2peng",
                 "repo": "DFGC_starterkit",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "socialabubi",
                 "repo": "iFakeFaceDB",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             }
           ],
           "description": null,
@@ -233,7 +246,8 @@
                 "owner": "PeterWang512",
                 "repo": "CNNDetection",
                 "stars": 1006
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -248,7 +262,8 @@
                 "owner": "rshaojimmy",
                 "repo": "MultiModal-DeepFake",
                 "stars": 518
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -263,7 +278,8 @@
                 "owner": "WisconsinAIVision",
                 "repo": "UniversalFakeDetect",
                 "stars": 371
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -278,7 +294,8 @@
                 "owner": "chuangchuangtan",
                 "repo": "NPR-DeepfakeDetection",
                 "stars": 312
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -293,7 +310,8 @@
                 "owner": "CHELSEA234",
                 "repo": "HiFi_IFDL",
                 "stars": 301
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -308,7 +326,8 @@
                 "owner": "yoctta",
                 "repo": "multiple-attention",
                 "stars": 275
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -323,7 +342,8 @@
                 "owner": "mapooon",
                 "repo": "SelfBlendedImages",
                 "stars": 273
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -338,7 +358,8 @@
                 "owner": "grip-unina",
                 "repo": "TruFor",
                 "stars": 271
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -353,7 +374,8 @@
                 "owner": "megvii-research",
                 "repo": "CADDM",
                 "stars": 181
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -368,7 +390,8 @@
                 "owner": "10Ring",
                 "repo": "LAA-Net",
                 "stars": 177
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -383,7 +406,8 @@
                 "owner": "HighwayWu",
                 "repo": "ImageForensicsOSN",
                 "stars": 148
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -398,7 +422,8 @@
                 "owner": "liangchen527",
                 "repo": "SLADD",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -412,8 +437,9 @@
                 "last_commit": "2021-07-15T02:27:47Z",
                 "owner": "yinanhe",
                 "repo": "ForgeryNet",
-                "stars": 127
-              }
+                "stars": 128
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -428,7 +454,8 @@
                 "owner": "JStehouwer",
                 "repo": "FFD_CVPR2020",
                 "stars": 117
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -443,7 +470,8 @@
                 "owner": "chuangchuangtan",
                 "repo": "LGrad",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -458,7 +486,8 @@
                 "owner": "cfeng16",
                 "repo": "audio-visual-forensics",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -473,7 +502,8 @@
                 "owner": "sunyiyou",
                 "repo": "SAFAS",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -488,7 +518,8 @@
                 "owner": "LightDXY",
                 "repo": "ICT_DeepFake",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -503,7 +534,8 @@
                 "owner": "frederickszk",
                 "repo": "LRNet",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -518,7 +550,8 @@
                 "owner": "qianyuzqy",
                 "repo": "IADG",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -533,7 +566,8 @@
                 "owner": "crywang",
                 "repo": "RFM",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -548,7 +582,8 @@
                 "owner": "Purdue-M2",
                 "repo": "Fairness-Generalization",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -563,7 +598,8 @@
                 "owner": "niyunsheng",
                 "repo": "CORE",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -578,7 +614,8 @@
                 "owner": "koushiksrivats",
                 "repo": "face_attribute_attack",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             }
           ],
           "description": null,
@@ -600,7 +637,8 @@
                 "owner": "yinglinzheng",
                 "repo": "FTCN",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -615,7 +653,8 @@
                 "owner": "ningyu1991",
                 "repo": "GANFingerprints",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -630,7 +669,8 @@
                 "owner": "rainy-xu",
                 "repo": "TALL4Deepfake",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -645,7 +685,8 @@
                 "owner": "ningyu1991",
                 "repo": "ArtificialGANFingerprints",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -660,7 +701,8 @@
                 "owner": "grip-unina",
                 "repo": "id-reveal",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             }
           ],
           "description": null,
@@ -682,7 +724,8 @@
                 "owner": "rshaojimmy",
                 "repo": "SeqDeepFake",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -697,7 +740,8 @@
                 "owner": "wany0824",
                 "repo": "UIA-ViT",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             }
           ],
           "description": null,
@@ -718,8 +762,9 @@
                 "last_commit": "2025-08-20T08:03:47Z",
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1095
-              }
+                "stars": 1096
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -734,7 +779,8 @@
                 "owner": "AaronComo",
                 "repo": "LipFD",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -749,7 +795,8 @@
                 "owner": "RUB-SysSec",
                 "repo": "WaveFake",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -764,7 +811,8 @@
                 "owner": "liangchen527",
                 "repo": "OST",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -779,7 +827,8 @@
                 "owner": "Eleven4AI",
                 "repo": "SpeechForensics",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             }
           ],
           "description": null,
@@ -801,7 +850,8 @@
                 "owner": "ningyu1991",
                 "repo": "ScalableGANFingerprints",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -816,7 +866,8 @@
                 "owner": "JWLiang007",
                 "repo": "PFF",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             }
           ],
           "description": null,
@@ -838,7 +889,8 @@
                 "owner": "RUB-SysSec",
                 "repo": "GANDCTAnalysis",
                 "stars": 201
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -853,7 +905,8 @@
                 "owner": "beibuwandeluori",
                 "repo": "DRCT",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -868,7 +921,8 @@
                 "owner": "miraflow",
                 "repo": "DistilDIRE",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             }
           ],
           "description": null,
@@ -890,7 +944,8 @@
                 "owner": "AbstractTeen",
                 "repo": "AntiForgery",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -905,7 +960,8 @@
                 "owner": "SSAW14",
                 "repo": "BeyondtheSpectrum",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             }
           ],
           "description": null,
@@ -927,7 +983,8 @@
                 "owner": "VDIGPKU",
                 "repo": "CMUA-Watermark",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -942,7 +999,8 @@
                 "owner": "skJack",
                 "repo": "LTW",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -957,7 +1015,8 @@
                 "owner": "ICTMCG",
                 "repo": "DNA-Det",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             }
           ],
           "description": null,
@@ -979,7 +1038,8 @@
                 "owner": "DASH-Lab",
                 "repo": "FakeAVCeleb",
                 "stars": 120
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             },
             {
               "node_type": "item",
@@ -994,7 +1054,8 @@
                 "owner": "abhinavdhall",
                 "repo": "deepfake",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
             }
           ],
           "description": null,
@@ -1020,7 +1081,8 @@
             "owner": "v0lta",
             "repo": "PyTorch-Wavelet-Toolbox",
             "stars": 440
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         },
         {
           "node_type": "item",
@@ -1035,7 +1097,8 @@
             "owner": "wolo-wolo",
             "repo": "Using-Grayscale-Frequency-Statistic-to-Detect-Manipulated-Faces-in-Wavelet-Domain",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         }
       ],
       "title": "Frequency Based"
@@ -1056,7 +1119,8 @@
             "owner": "chuangchuangtan",
             "repo": "NPR-DeepfakeDetection",
             "stars": 312
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         },
         {
           "node_type": "item",
@@ -1071,7 +1135,8 @@
             "owner": "sunyiyou",
             "repo": "SAFAS",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         },
         {
           "node_type": "item",
@@ -1086,7 +1151,8 @@
             "owner": "shahroztariq",
             "repo": "CLRNet",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         },
         {
           "node_type": "item",
@@ -1101,7 +1167,8 @@
             "owner": "xuyingzhongguo",
             "repo": "deepfake_supcon",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         },
         {
           "node_type": "item",
@@ -1116,7 +1183,8 @@
             "owner": "xuyingzhongguo",
             "repo": "deepfake_supcon",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         }
       ],
       "title": "Generalization"
@@ -1137,7 +1205,8 @@
             "owner": "chail",
             "repo": "patch-forensics",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         },
         {
           "node_type": "item",
@@ -1152,7 +1221,8 @@
             "owner": "rshaojimmy",
             "repo": "SeqDeepFake",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         },
         {
           "node_type": "item",
@@ -1167,7 +1237,8 @@
             "owner": "xuyingzhongguo",
             "repo": "deepfake_supcon",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         }
       ],
       "title": "Interpretability"
@@ -1188,7 +1259,8 @@
             "owner": "CHELSEA234",
             "repo": "HiFi_IFDL",
             "stars": 301
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         },
         {
           "node_type": "item",
@@ -1203,7 +1275,8 @@
             "owner": "10Ring",
             "repo": "LAA-Net",
             "stars": 177
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         },
         {
           "node_type": "item",
@@ -1218,7 +1291,8 @@
             "owner": "HighwayWu",
             "repo": "ST-DDL",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         }
       ],
       "title": "Localization"
@@ -1239,7 +1313,8 @@
             "owner": "grip-unina",
             "repo": "poi-forensics",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         },
         {
           "node_type": "item",
@@ -1254,7 +1329,8 @@
             "owner": "hellomuffin",
             "repo": "exif-as-language",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         }
       ],
       "title": "Multi-modal Based"
@@ -1275,7 +1351,8 @@
             "owner": "BiDAlab",
             "repo": "DeepFakesON-Phys",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         }
       ],
       "title": "Biological Signal"
@@ -1296,7 +1373,8 @@
             "owner": "10Ring",
             "repo": "LAA-Net",
             "stars": 177
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         }
       ],
       "title": "Robustness"
@@ -1317,7 +1395,8 @@
             "owner": "Purdue-M2",
             "repo": "Fairness-Generalization",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         },
         {
           "node_type": "item",
@@ -1332,7 +1411,8 @@
             "owner": "pterhoer",
             "repo": "DeepFakeAnnotations",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         },
         {
           "node_type": "item",
@@ -1347,7 +1427,8 @@
             "owner": "aakash4305",
             "repo": "GBDF",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         }
       ],
       "title": "Fairness"
@@ -1368,7 +1449,8 @@
             "owner": "VDIGPKU",
             "repo": "CMUA-Watermark",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         },
         {
           "node_type": "item",
@@ -1383,7 +1465,8 @@
             "owner": "ningyu1991",
             "repo": "ArtificialGANFingerprints",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         },
         {
           "node_type": "item",
@@ -1398,7 +1481,8 @@
             "owner": "AbstractTeen",
             "repo": "AntiForgery",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         },
         {
           "node_type": "item",
@@ -1413,7 +1497,8 @@
             "owner": "paarthneekhara",
             "repo": "FaceSignsDemo",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         },
         {
           "node_type": "item",
@@ -1428,7 +1513,8 @@
             "owner": "ningyu1991",
             "repo": "ScalableGANFingerprints",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         }
       ],
       "title": "Fingerprint Watermark"
@@ -1449,7 +1535,8 @@
             "owner": "LightDXY",
             "repo": "ICT_DeepFake",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         },
         {
           "node_type": "item",
@@ -1464,7 +1551,8 @@
             "owner": "grip-unina",
             "repo": "poi-forensics",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         },
         {
           "node_type": "item",
@@ -1479,7 +1567,8 @@
             "owner": "grip-unina",
             "repo": "id-reveal",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         }
       ],
       "title": "Identity-Related"
@@ -1500,7 +1589,8 @@
             "owner": "liangchen527",
             "repo": "SLADD",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         },
         {
           "node_type": "item",
@@ -1515,7 +1605,8 @@
             "owner": "shivangi-aneja",
             "repo": "TAFIM",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         },
         {
           "node_type": "item",
@@ -1530,7 +1621,8 @@
             "owner": "AbstractTeen",
             "repo": "AntiForgery",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         },
         {
           "node_type": "item",
@@ -1545,7 +1637,8 @@
             "owner": "JWLiang007",
             "repo": "PFF",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         },
         {
           "node_type": "item",
@@ -1560,7 +1653,8 @@
             "owner": "OUC-VAS",
             "repo": "FacePoison",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         }
       ],
       "title": "Adversarial Attack"
@@ -1581,7 +1675,8 @@
             "owner": "HighwayWu",
             "repo": "ImageForensicsOSN",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         },
         {
           "node_type": "item",
@@ -1596,7 +1691,8 @@
             "owner": "shahroztariq",
             "repo": "Deepfake_Impersonation_Attack",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         },
         {
           "node_type": "item",
@@ -1611,7 +1707,8 @@
             "owner": "chenzhao-yang",
             "repo": "lip-based-anti-spoofing",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         }
       ],
       "title": "Real Scenario"
@@ -1632,7 +1729,8 @@
             "owner": "cfeng16",
             "repo": "audio-visual-forensics",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         }
       ],
       "title": "Anomaly Detection"
@@ -1653,7 +1751,8 @@
             "owner": "cfeng16",
             "repo": "audio-visual-forensics",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         }
       ],
       "title": "Self-Supervised Learning"
@@ -1674,7 +1773,8 @@
             "owner": "ningyu1991",
             "repo": "ArtificialGANFingerprints",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         },
         {
           "node_type": "item",
@@ -1689,7 +1789,8 @@
             "owner": "ICTMCG",
             "repo": "DNA-Det",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         }
       ],
       "title": "Source Model Attribution"
@@ -1710,7 +1811,8 @@
             "owner": "GANG370",
             "repo": "FedForgery",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         }
       ],
       "title": "Federated Learning"
@@ -1731,7 +1833,8 @@
             "owner": "Puning97",
             "repo": "CDC_face_forgery_detection",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         }
       ],
       "title": "Knowledge Distillation"
@@ -1752,7 +1855,8 @@
             "owner": "skJack",
             "repo": "LTW",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         }
       ],
       "title": "Meta-Learning"
@@ -1773,14 +1877,15 @@
             "owner": "gleporoni",
             "repo": "rgbd-depthfake",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
         }
       ],
       "title": "Depth Based"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:22:54.592Z",
+    "last_updated": "2026-08-28T11:41:15.110Z",
     "original_repository_info": {
       "archived": false,
       "id": 381603523,
@@ -1788,7 +1893,7 @@
       "last_commit": "2025-09-02T01:56:45Z",
       "owner": "Daisy-Zhang",
       "repo": "Awesome-Deepfakes-Detection",
-      "stars": 1818
+      "stars": 1819
     },
     "original_repository_sha": "07b77a42d38859b9ec03085bcf38bf6f82d89e40",
     "enhanced_repository": "enhansome/enhansome-Awesome-Deepfakes-Detection",
