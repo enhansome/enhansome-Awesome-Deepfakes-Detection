@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Github of the FaceForensics dataset",
+                "homepage": "http://niessnerlab.org/projects/roessler2018faceforensics.html",
                 "id": 129401433,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-08T01:43:11Z",
+                "open_issues": 96,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2765
+                "stars": 2765,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -28,12 +33,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2020] A Large-Scale Dataset for Real-World Face Forgery Detection",
+                "homepage": null,
                 "id": 230434958,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-07-09T10:35:55Z",
+                "open_issues": 5,
                 "owner": "EndlessSora",
                 "repo": "DeeperForensics-1.0",
-                "stars": 585
+                "stars": 585,
+                "topics": [
+                  "benchmark",
+                  "cvpr2020",
+                  "dataset",
+                  "deepfakes",
+                  "face-forensics",
+                  "face-forgery-detection",
+                  "face-manipulation",
+                  "method",
+                  "perturbations",
+                  "real-world",
+                  "videos"
+                ]
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -44,12 +66,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Celeb-DF: A Large-scale Challenging Dataset for DeepFake Forensics",
+                "homepage": null,
                 "id": 212225457,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-07-12T01:12:46Z",
+                "open_issues": 7,
                 "owner": "yuezunli",
                 "repo": "celeb-deepfakeforensics",
-                "stars": 332
+                "stars": 332,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -60,12 +87,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Celeb-DF: A Large-scale Challenging Dataset for DeepFake Forensics",
+                "homepage": null,
                 "id": 212225457,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-07-12T01:12:46Z",
+                "open_issues": 7,
                 "owner": "yuezunli",
                 "repo": "celeb-deepfakeforensics",
-                "stars": 332
+                "stars": 332,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -76,12 +108,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "deepfake dataset collected on the web for deepfake detection",
+                "homepage": null,
                 "id": 218060085,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-12-10T09:28:48Z",
+                "open_issues": 7,
                 "owner": "xingjunm",
                 "repo": "wild-deepfake",
-                "stars": 241
+                "stars": 241,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -92,12 +129,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2021 Oral] ForgeryNet: A Versatile Benchmark for Comprehensive Forgery Analysis",
+                "homepage": null,
                 "id": 345891990,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-07-15T02:27:47Z",
+                "open_issues": 22,
                 "owner": "yinanhe",
                 "repo": "ForgeryNet",
-                "stars": 128
+                "stars": 128,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -108,12 +150,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[MM24 Oral] Identity-Driven Multimedia Forgery Detection via Reference Assistance",
+                "homepage": null,
                 "id": 833975165,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-03T14:15:15Z",
+                "open_issues": 1,
                 "owner": "xyyandxyy",
                 "repo": "IDForge",
-                "stars": 122
+                "stars": 122,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -124,12 +171,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FakeAVCeleb",
+                "homepage": null,
                 "id": 400530435,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-12-23T05:12:04Z",
+                "open_issues": 13,
                 "owner": "DASH-Lab",
                 "repo": "FakeAVCeleb",
-                "stars": 120
+                "stars": 120,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -140,12 +192,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Face Forensics in the Wild",
+                "homepage": null,
                 "id": 344347548,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-10-04T11:14:04Z",
+                "open_issues": 2,
                 "owner": "tfzhou",
                 "repo": "FFIW",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -156,12 +213,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Celeb-DF++: A Large-scale Challenging Video DeepFake Benchmark for Generalizable Forensics",
+                "homepage": null,
                 "id": 1005294254,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-06-30T04:31:27Z",
+                "open_issues": 0,
                 "owner": "OUC-VAS",
                 "repo": "Celeb-DF-PP",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             }
@@ -179,12 +241,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2021 Oral] ForgeryNet: A Versatile Benchmark for Comprehensive Forgery Analysis",
+                "homepage": null,
                 "id": 345891990,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-07-15T02:27:47Z",
+                "open_issues": 22,
                 "owner": "yinanhe",
                 "repo": "ForgeryNet",
-                "stars": 128
+                "stars": 128,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -195,12 +262,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 343292165,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-10-04T02:13:38Z",
+                "open_issues": 0,
                 "owner": "bomb2peng",
                 "repo": "DFGC_starterkit",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -211,12 +283,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dataset of synthetic faces modified by a GAN-fingerprint removal approach",
+                "homepage": null,
                 "id": 255346146,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-06-19T17:01:30Z",
+                "open_issues": 1,
                 "owner": "socialabubi",
                 "repo": "iFakeFaceDB",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             }
@@ -240,12 +317,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the paper: CNN-generated images are surprisingly easy to spot... for now https://peterwang512.github.io/CNNDetection/",
+                "homepage": null,
                 "id": 229809824,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-26T20:59:16Z",
+                "open_issues": 23,
                 "owner": "PeterWang512",
                 "repo": "CNNDetection",
-                "stars": 1006
+                "stars": 1006,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -256,12 +338,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TPAMI 2024 & CVPR 2023] PyTorch code for DGM4: Detecting and Grounding Multi-Modal Media Manipulation and beyond",
+                "homepage": null,
                 "id": 615692098,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-23T05:50:46Z",
+                "open_issues": 18,
                 "owner": "rshaojimmy",
                 "repo": "MultiModal-DeepFake",
-                "stars": 518
+                "stars": 518,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -272,12 +359,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 602124381,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-19T18:46:01Z",
+                "open_issues": 24,
                 "owner": "WisconsinAIVision",
                 "repo": "UniversalFakeDetect",
-                "stars": 371
+                "stars": 371,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -288,12 +380,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 732377815,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-01T01:20:29Z",
+                "open_issues": 26,
                 "owner": "chuangchuangtan",
                 "repo": "NPR-DeepfakeDetection",
-                "stars": 312
+                "stars": 312,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -304,12 +401,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥Hierarchical Fine-Grained Image Forgery Detection and Localization (CVPR23 + IJCV24)",
+                "homepage": null,
                 "id": 617294519,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-01T05:07:26Z",
+                "open_issues": 14,
                 "owner": "CHELSEA234",
                 "repo": "HiFi_IFDL",
-                "stars": 301
+                "stars": 301,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -320,12 +422,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The code of multi-attention deepfake detection",
+                "homepage": null,
                 "id": 345661318,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-02-18T17:53:08Z",
+                "open_issues": 24,
                 "owner": "yoctta",
                 "repo": "multiple-attention",
-                "stars": 275
+                "stars": 275,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -336,12 +443,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2022 Oral] Detecting Deepfakes with Self-Blended Images https://arxiv.org/abs/2204.08376",
+                "homepage": null,
                 "id": 483061683,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-13T03:19:59Z",
+                "open_issues": 26,
                 "owner": "mapooon",
                 "repo": "SelfBlendedImages",
-                "stars": 273
+                "stars": 273,
+                "topics": [
+                  "deepfake",
+                  "deepfake-detection",
+                  "deepfakes",
+                  "image-forensics"
+                ]
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -352,12 +469,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TruFor",
+                "homepage": null,
                 "id": 575117310,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-29T07:46:01Z",
+                "open_issues": 14,
                 "owner": "grip-unina",
                 "repo": "TruFor",
-                "stars": 271
+                "stars": 271,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -368,12 +490,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of ID-unaware Deepfake Detection Model",
+                "homepage": null,
                 "id": 610781168,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-15T09:38:40Z",
+                "open_issues": 28,
                 "owner": "megvii-research",
                 "repo": "CADDM",
-                "stars": 181
+                "stars": 181,
+                "topics": [
+                  "cnn-classification",
+                  "deepfake-detection",
+                  "human-faces"
+                ]
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -384,12 +515,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation for LAA-Net: Localized Artifact Attention Network for Quality-Agnostic and Generalizable Deepfake Detection",
+                "homepage": null,
                 "id": 759775496,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-11-26T16:26:21Z",
+                "open_issues": 16,
                 "owner": "10Ring",
                 "repo": "LAA-Net",
-                "stars": 177
+                "stars": 177,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -400,12 +536,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 374873295,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-18T02:02:55Z",
+                "open_issues": 4,
                 "owner": "HighwayWu",
                 "repo": "ImageForensicsOSN",
-                "stars": 148
+                "stars": 148,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -416,12 +557,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code for Self-supervised Learning of Adversarial Example: Towards Good Generalizations for Deepfake Detection (CVPR 2022 oral)",
+                "homepage": null,
                 "id": 466736810,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-05-29T04:00:29Z",
+                "open_issues": 13,
                 "owner": "liangchen527",
                 "repo": "SLADD",
-                "stars": 141
+                "stars": 141,
+                "topics": [
+                  "adversarial-training",
+                  "deepfake-detection",
+                  "generalization",
+                  "self-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -432,12 +583,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2021 Oral] ForgeryNet: A Versatile Benchmark for Comprehensive Forgery Analysis",
+                "homepage": null,
                 "id": 345891990,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-07-15T02:27:47Z",
+                "open_issues": 22,
                 "owner": "yinanhe",
                 "repo": "ForgeryNet",
-                "stars": 128
+                "stars": 128,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -448,12 +604,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 248033548,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2020-12-09T00:39:41Z",
+                "open_issues": 12,
                 "owner": "JStehouwer",
                 "repo": "FFD_CVPR2020",
-                "stars": 117
+                "stars": 117,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -464,12 +625,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the paper: Learning on Gradients: Generalized Artifacts Representation for GAN-Generated Images Detection",
+                "homepage": null,
                 "id": 609733305,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-08-17T08:15:25Z",
+                "open_issues": 7,
                 "owner": "chuangchuangtan",
                 "repo": "LGrad",
-                "stars": 114
+                "stars": 114,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -480,12 +646,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2023 (Highlight)] Self-Supervised Video Forensics by Audio-Visual Anomaly Detection",
+                "homepage": "https://cfeng16.github.io/audio-visual-forensics/",
                 "id": 572758615,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-12T22:25:59Z",
+                "open_issues": 5,
                 "owner": "cfeng16",
                 "repo": "audio-visual-forensics",
-                "stars": 113
+                "stars": 113,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -496,12 +667,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for CVPR 2023 paper \"Rethinking Domain Generalization for Face Anti-spoofing: Separability and Alignment\"",
+                "homepage": null,
                 "id": 616305914,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-12T17:56:28Z",
+                "open_issues": 5,
                 "owner": "sunyiyou",
                 "repo": "SAFAS",
-                "stars": 103
+                "stars": 103,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -512,12 +688,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 474920299,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-04-18T09:32:53Z",
+                "open_issues": 11,
                 "owner": "LightDXY",
                 "repo": "ICT_DeepFake",
-                "stars": 101
+                "stars": 101,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -528,12 +709,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Landmark Recurrent Network: An efficient and robust framework for Deepfakes detection",
+                "homepage": null,
                 "id": 352293991,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-08T12:05:31Z",
+                "open_issues": 29,
                 "owner": "frederickszk",
                 "repo": "LRNet",
-                "stars": 101
+                "stars": 101,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -544,12 +730,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(CVPR 2023) Instance-Aware Domain Generalization for Face Anti-Spoofing",
+                "homepage": null,
                 "id": 617460699,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-10-19T10:10:16Z",
+                "open_issues": 6,
                 "owner": "qianyuzqy",
                 "repo": "IADG",
-                "stars": 96
+                "stars": 96,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -560,12 +751,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 354242966,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-09T15:05:23Z",
+                "open_issues": 5,
                 "owner": "crywang",
                 "repo": "RFM",
-                "stars": 83
+                "stars": 83,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -576,12 +772,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository is the official implementation of our paper \"Preserving Fairness Generalization in Deepfake Detection\", which has been accepted by CVPR 2024.",
+                "homepage": null,
                 "id": 763852851,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-31T03:22:10Z",
+                "open_issues": 6,
                 "owner": "Purdue-M2",
                 "repo": "Fairness-Generalization",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -592,12 +793,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CORE: COnsistent REpresentation Learning for Face Forgery Detection, CVPRW 22",
+                "homepage": null,
                 "id": 479092244,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-04-06T15:47:38Z",
+                "open_issues": 0,
                 "owner": "niyunsheng",
                 "repo": "CORE",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -608,12 +814,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of the paper \"Evading Forensic Classifiers with Attribute-Conditioned Adversarial Faces\" (CVPR 23)",
+                "homepage": "https://koushiksrivats.github.io/face_attribute_attack/",
                 "id": 618130690,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-24T10:27:12Z",
+                "open_issues": 3,
                 "owner": "koushiksrivats",
                 "repo": "face_attribute_attack",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             }
@@ -631,12 +842,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[Official] Exploring Temporal Coherence for More General Video Face Forgery Detection(ICCV 2021)",
+                "homepage": null,
                 "id": 402005123,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-12T06:38:10Z",
+                "open_issues": 14,
                 "owner": "yinglinzheng",
                 "repo": "FTCN",
-                "stars": 126
+                "stars": 126,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -647,12 +863,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official Tensorflow implementation for ICCV'19 paper 'Attributing Fake Images to GANs: Learning and Analyzing GAN Fingerprints'",
+                "homepage": null,
                 "id": 201134557,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-16T22:19:18Z",
+                "open_issues": 2,
                 "owner": "ningyu1991",
                 "repo": "GANFingerprints",
-                "stars": 126
+                "stars": 126,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -663,12 +884,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 618477537,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-07T08:19:01Z",
+                "open_issues": 7,
                 "owner": "rainy-xu",
                 "repo": "TALL4Deepfake",
-                "stars": 112
+                "stars": 112,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -679,12 +905,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official PyTorch implementation for ICCV'21 Oral paper 'Artificial GAN Fingerprints: Rooting Deepfake Attribution in Training Data'",
+                "homepage": null,
                 "id": 317038803,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-16T18:26:52Z",
+                "open_issues": 7,
                 "owner": "ningyu1991",
                 "repo": "ArtificialGANFingerprints",
-                "stars": 78
+                "stars": 78,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -695,12 +926,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 317670323,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2023-06-17T13:28:29Z",
+                "open_issues": 6,
                 "owner": "grip-unina",
                 "repo": "id-reveal",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             }
@@ -718,12 +954,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2022 & IJCV 2025] PyTorch code for SeqDeepFake: Detecting and Recovering Sequential DeepFake Manipulation",
+                "homepage": null,
                 "id": 509358044,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-03T10:51:16Z",
+                "open_issues": 9,
                 "owner": "rshaojimmy",
                 "repo": "SeqDeepFake",
-                "stars": 151
+                "stars": 151,
+                "topics": [
+                  "deepfake-detection",
+                  "sequential-facial-manipulation"
+                ]
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -734,12 +978,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 515913585,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-14T04:59:17Z",
+                "open_issues": 5,
                 "owner": "wany0824",
                 "repo": "UIA-ViT",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             }
@@ -757,12 +1006,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A comprehensive benchmark of deepfake detection",
+                "homepage": null,
                 "id": 650075446,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-20T08:03:47Z",
+                "open_issues": 98,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1096
+                "stars": 1096,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -773,12 +1027,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2024] This is the official repo of the paper \"Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-syncing DeepFakes\".",
+                "homepage": null,
                 "id": 740937691,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-02-09T09:45:30Z",
+                "open_issues": 16,
                 "owner": "AaronComo",
                 "repo": "LipFD",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "deepfake-detection",
+                  "lipsync"
+                ]
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -789,12 +1051,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 424238034,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-12-16T15:54:53Z",
+                "open_issues": 1,
                 "owner": "RUB-SysSec",
                 "repo": "WaveFake",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -805,12 +1072,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code for the NeurIPS 2022 paper: \"ost: improving generalization of deepfake detection via one-shot test-time training\"",
+                "homepage": null,
                 "id": 546365456,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-02-03T03:34:25Z",
+                "open_issues": 5,
                 "owner": "liangchen527",
                 "repo": "OST",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -821,12 +1093,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 881303288,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-02-03T07:50:56Z",
+                "open_issues": 2,
                 "owner": "Eleven4AI",
                 "repo": "SpeechForensics",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             }
@@ -844,12 +1121,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official TensorFlow implementation for ICLR'22 Spotlight paper 'Responsible Disclosure of Generative Models Using Scalable Fingerprinting'",
+                "homepage": null,
                 "id": 340795605,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-16T22:17:44Z",
+                "open_issues": 1,
                 "owner": "ningyu1991",
                 "repo": "ScalableGANFingerprints",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -860,12 +1142,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of \"Poisoned Forgery Face: Towards Backdoor Attacks on Face Forgery Detection\" (ICLR 2024)",
+                "homepage": null,
                 "id": 757391331,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-15T07:03:24Z",
+                "open_issues": 4,
                 "owner": "JWLiang007",
                 "repo": "PFF",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             }
@@ -883,12 +1170,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the ICML 2020 paper: Leveraging Frequency Analysis for Deep Fake Image Recognition.",
+                "homepage": null,
                 "id": 248477603,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-02-15T23:43:00Z",
+                "open_issues": 10,
                 "owner": "RUB-SysSec",
                 "repo": "GANDCTAnalysis",
-                "stars": 201
+                "stars": 201,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -899,12 +1191,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official code of \"DRCT: Diffusion Reconstruction Contrastive Training towards Universe Detection of Diffusion Generated Images\"",
+                "homepage": null,
                 "id": 751260675,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-04-05T17:19:31Z",
+                "open_issues": 26,
                 "owner": "beibuwandeluori",
                 "repo": "DRCT",
-                "stars": 168
+                "stars": 168,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -915,12 +1212,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML 2024 - Foundation Models in the Wild] DistilDIRE: A Small, Fast, Cheap and Lightweight Diffusion Synthesized Deepfake Detection",
+                "homepage": null,
                 "id": 800023852,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-02T15:07:08Z",
+                "open_issues": 2,
                 "owner": "miraflow",
                 "repo": "DistilDIRE",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             }
@@ -938,12 +1240,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 485015159,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-17T09:19:35Z",
+                "open_issues": 7,
                 "owner": "AbstractTeen",
                 "repo": "AntiForgery",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -954,12 +1261,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation for the IJCAI2021 work \"Beyond the Spectrum: Detecting Deepfakes via Re-synthesis\"",
+                "homepage": null,
                 "id": 364656842,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-03-31T19:09:39Z",
+                "open_issues": 2,
                 "owner": "SSAW14",
                 "repo": "BeyondtheSpectrum",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             }
@@ -977,12 +1289,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2022] CMUA-Watermark: A Cross-Model Universal Adversarial Watermark for Combating Deepfakes",
+                "homepage": null,
                 "id": 437795683,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-06T02:48:46Z",
+                "open_issues": 4,
                 "owner": "VDIGPKU",
                 "repo": "CMUA-Watermark",
-                "stars": 112
+                "stars": 112,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -993,12 +1310,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for AAAI 2021 paper \"Domain General Face Forgery Detection by Learning to Weight\" (AAAI 2021).",
+                "homepage": null,
                 "id": 320457732,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-12-11T03:39:30Z",
+                "open_issues": 4,
                 "owner": "skJack",
                 "repo": "LTW",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -1009,12 +1331,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official repository for the code and datasets in the paper \"Deepfake Network Architecture Attribution\", AAAI 2022.",
+                "homepage": null,
                 "id": 439855462,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-04T14:56:02Z",
+                "open_issues": 1,
                 "owner": "ICTMCG",
                 "repo": "DNA-Det",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             }
@@ -1032,12 +1359,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FakeAVCeleb",
+                "homepage": null,
                 "id": 400530435,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-12-23T05:12:04Z",
+                "open_issues": 13,
                 "owner": "DASH-Lab",
                 "repo": "FakeAVCeleb",
-                "stars": 120
+                "stars": 120,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -1048,12 +1380,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deepfakes detection",
+                "homepage": null,
                 "id": 301042987,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-13T17:11:31Z",
+                "open_issues": 8,
                 "owner": "abhinavdhall",
                 "repo": "deepfake",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             }
@@ -1075,12 +1412,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[JMLR] Differentiable fast wavelet transforms in PyTorch with GPU support.",
+            "homepage": "https://pytorch-wavelet-toolbox.readthedocs.io",
             "id": 326435405,
             "language": "Python",
+            "license": "EUPL-1.2",
             "last_commit": "2026-07-20T14:32:08Z",
+            "open_issues": 9,
             "owner": "v0lta",
             "repo": "PyTorch-Wavelet-Toolbox",
-            "stars": 440
+            "stars": 440,
+            "topics": [
+              "fast-wavelet-transform",
+              "matrix-fwt",
+              "pytorch",
+              "wavelet",
+              "wavelet-analysis",
+              "wavelet-packets",
+              "wavelet-transform"
+            ]
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         },
@@ -1091,12 +1441,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "For Paper Review",
+            "homepage": null,
             "id": 354489839,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2021-04-04T08:25:12Z",
+            "open_issues": 0,
             "owner": "wolo-wolo",
             "repo": "Using-Grayscale-Frequency-Statistic-to-Detect-Manipulated-Faces-in-Wavelet-Domain",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         }
@@ -1113,12 +1468,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 732377815,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-05-01T01:20:29Z",
+            "open_issues": 26,
             "owner": "chuangchuangtan",
             "repo": "NPR-DeepfakeDetection",
-            "stars": 312
+            "stars": 312,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         },
@@ -1129,12 +1489,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for CVPR 2023 paper \"Rethinking Domain Generalization for Face Anti-spoofing: Separability and Alignment\"",
+            "homepage": null,
             "id": 616305914,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-04-12T17:56:28Z",
+            "open_issues": 5,
             "owner": "sunyiyou",
             "repo": "SAFAS",
-            "stars": 103
+            "stars": 103,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         },
@@ -1145,12 +1510,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One Detector to Rule Them All: Towards a General Deepfake Attack Detection Framework",
+            "homepage": null,
             "id": 337005922,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-05-13T06:40:04Z",
+            "open_issues": 1,
             "owner": "shahroztariq",
             "repo": "CLRNet",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         },
@@ -1161,12 +1531,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 404619390,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-18T15:41:55Z",
+            "open_issues": 0,
             "owner": "xuyingzhongguo",
             "repo": "deepfake_supcon",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         },
@@ -1177,12 +1552,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 404619390,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-18T15:41:55Z",
+            "open_issues": 0,
             "owner": "xuyingzhongguo",
             "repo": "deepfake_supcon",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         }
@@ -1199,12 +1579,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Investigating patches for fake image classification",
+            "homepage": null,
             "id": 280511601,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-01-19T23:25:59Z",
+            "open_issues": 5,
             "owner": "chail",
             "repo": "patch-forensics",
-            "stars": 152
+            "stars": 152,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         },
@@ -1215,12 +1600,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2022 & IJCV 2025] PyTorch code for SeqDeepFake: Detecting and Recovering Sequential DeepFake Manipulation",
+            "homepage": null,
             "id": 509358044,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-12-03T10:51:16Z",
+            "open_issues": 9,
             "owner": "rshaojimmy",
             "repo": "SeqDeepFake",
-            "stars": 151
+            "stars": 151,
+            "topics": [
+              "deepfake-detection",
+              "sequential-facial-manipulation"
+            ]
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         },
@@ -1231,12 +1624,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 404619390,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-18T15:41:55Z",
+            "open_issues": 0,
             "owner": "xuyingzhongguo",
             "repo": "deepfake_supcon",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         }
@@ -1253,12 +1651,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥Hierarchical Fine-Grained Image Forgery Detection and Localization (CVPR23 + IJCV24)",
+            "homepage": null,
             "id": 617294519,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-01T05:07:26Z",
+            "open_issues": 14,
             "owner": "CHELSEA234",
             "repo": "HiFi_IFDL",
-            "stars": 301
+            "stars": 301,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         },
@@ -1269,12 +1672,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official implementation for LAA-Net: Localized Artifact Attention Network for Quality-Agnostic and Generalizable Deepfake Detection",
+            "homepage": null,
             "id": 759775496,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-26T16:26:21Z",
+            "open_issues": 16,
             "owner": "10Ring",
             "repo": "LAA-Net",
-            "stars": 177
+            "stars": 177,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         },
@@ -1285,12 +1693,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 550244471,
             "language": null,
+            "license": null,
             "last_commit": "2025-02-27T14:29:57Z",
+            "open_issues": 1,
             "owner": "HighwayWu",
             "repo": "ST-DDL",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         }
@@ -1307,12 +1720,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "POI-Forensics",
+            "homepage": null,
             "id": 478649644,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-12-22T11:54:17Z",
+            "open_issues": 4,
             "owner": "grip-unina",
             "repo": "poi-forensics",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         },
@@ -1323,12 +1741,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "official repo for the paper \"EXIF as Language: Learning Cross-Modal Associations Between Images and Camera Metadata\"",
+            "homepage": null,
             "id": 587626769,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-11-03T06:44:21Z",
+            "open_issues": 4,
             "owner": "hellomuffin",
             "repo": "exif-as-language",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         }
@@ -1345,12 +1768,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 310643472,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-04-12T09:17:01Z",
+            "open_issues": 3,
             "owner": "BiDAlab",
             "repo": "DeepFakesON-Phys",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         }
@@ -1367,12 +1795,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official implementation for LAA-Net: Localized Artifact Attention Network for Quality-Agnostic and Generalizable Deepfake Detection",
+            "homepage": null,
             "id": 759775496,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-26T16:26:21Z",
+            "open_issues": 16,
             "owner": "10Ring",
             "repo": "LAA-Net",
-            "stars": 177
+            "stars": 177,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         }
@@ -1389,12 +1822,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository is the official implementation of our paper \"Preserving Fairness Generalization in Deepfake Detection\", which has been accepted by CVPR 2024.",
+            "homepage": null,
             "id": 763852851,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-31T03:22:10Z",
+            "open_issues": 6,
             "owner": "Purdue-M2",
             "repo": "Fairness-Generalization",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         },
@@ -1405,12 +1843,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Massively Annotated DeepFake Databases - IEEE Transactions on Technology and Society 2024",
+            "homepage": "https://ieeexplore.ieee.org/document/10438899",
             "id": 520464420,
             "language": "Python",
+            "license": "Unlicense",
             "last_commit": "2024-02-28T08:50:50Z",
+            "open_issues": 1,
             "owner": "pterhoer",
             "repo": "DeepFakeAnnotations",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "deepfake",
+              "deepfake-detection",
+              "fairness-ai",
+              "fairness-ml"
+            ]
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         },
@@ -1421,12 +1869,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GBDF: Gender Balanced DeepFake Dataset",
+            "homepage": null,
             "id": 514992888,
             "language": null,
+            "license": null,
             "last_commit": "2022-07-22T21:04:10Z",
+            "open_issues": 3,
             "owner": "aakash4305",
             "repo": "GBDF",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "bias-measurement",
+              "database",
+              "deepfake-detection",
+              "deepfakes-datasets",
+              "privacy",
+              "privacy-enhancing-technologies"
+            ]
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         }
@@ -1443,12 +1903,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[AAAI 2022] CMUA-Watermark: A Cross-Model Universal Adversarial Watermark for Combating Deepfakes",
+            "homepage": null,
             "id": 437795683,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-06T02:48:46Z",
+            "open_issues": 4,
             "owner": "VDIGPKU",
             "repo": "CMUA-Watermark",
-            "stars": 112
+            "stars": 112,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         },
@@ -1459,12 +1924,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official PyTorch implementation for ICCV'21 Oral paper 'Artificial GAN Fingerprints: Rooting Deepfake Attribution in Training Data'",
+            "homepage": null,
             "id": 317038803,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-16T18:26:52Z",
+            "open_issues": 7,
             "owner": "ningyu1991",
             "repo": "ArtificialGANFingerprints",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         },
@@ -1475,12 +1945,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 485015159,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-17T09:19:35Z",
+            "open_issues": 7,
             "owner": "AbstractTeen",
             "repo": "AntiForgery",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         },
@@ -1491,12 +1966,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 477938560,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2022-04-07T07:07:51Z",
+            "open_issues": 2,
             "owner": "paarthneekhara",
             "repo": "FaceSignsDemo",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         },
@@ -1507,12 +1987,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official TensorFlow implementation for ICLR'22 Spotlight paper 'Responsible Disclosure of Generative Models Using Scalable Fingerprinting'",
+            "homepage": null,
             "id": 340795605,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-16T22:17:44Z",
+            "open_issues": 1,
             "owner": "ningyu1991",
             "repo": "ScalableGANFingerprints",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         }
@@ -1529,12 +2014,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 474920299,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-04-18T09:32:53Z",
+            "open_issues": 11,
             "owner": "LightDXY",
             "repo": "ICT_DeepFake",
-            "stars": 101
+            "stars": 101,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         },
@@ -1545,12 +2035,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "POI-Forensics",
+            "homepage": null,
             "id": 478649644,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-12-22T11:54:17Z",
+            "open_issues": 4,
             "owner": "grip-unina",
             "repo": "poi-forensics",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         },
@@ -1561,12 +2056,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 317670323,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2023-06-17T13:28:29Z",
+            "open_issues": 6,
             "owner": "grip-unina",
             "repo": "id-reveal",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         }
@@ -1583,12 +2083,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code for Self-supervised Learning of Adversarial Example: Towards Good Generalizations for Deepfake Detection (CVPR 2022 oral)",
+            "homepage": null,
             "id": 466736810,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-05-29T04:00:29Z",
+            "open_issues": 13,
             "owner": "liangchen527",
             "repo": "SLADD",
-            "stars": 141
+            "stars": 141,
+            "topics": [
+              "adversarial-training",
+              "deepfake-detection",
+              "generalization",
+              "self-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         },
@@ -1599,12 +2109,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2022] TAFIM: Targeted Adversarial Attacks against Facial Image Manipulation",
+            "homepage": null,
             "id": 436003007,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-12-12T16:14:20Z",
+            "open_issues": 3,
             "owner": "shivangi-aneja",
             "repo": "TAFIM",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "adversarial-attacks",
+              "computer-vision",
+              "deep-learning",
+              "deepfake-detection",
+              "deepfakes",
+              "eccv",
+              "eccv-2022",
+              "eccv2022",
+              "generative-adversarial-network",
+              "image-manipulation",
+              "image-manipulation-detection",
+              "image-translation",
+              "styleclip",
+              "stylegan2"
+            ]
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         },
@@ -1615,12 +2145,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 485015159,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-17T09:19:35Z",
+            "open_issues": 7,
             "owner": "AbstractTeen",
             "repo": "AntiForgery",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         },
@@ -1631,12 +2166,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of \"Poisoned Forgery Face: Towards Backdoor Attacks on Face Forgery Detection\" (ICLR 2024)",
+            "homepage": null,
             "id": 757391331,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-04-15T07:03:24Z",
+            "open_issues": 4,
             "owner": "JWLiang007",
             "repo": "PFF",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         },
@@ -1647,12 +2187,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[TDSC 2025] Hiding Faces in Plain Sight: Defending DeepFakes by Disrupting Face Detection",
+            "homepage": null,
             "id": 988858385,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-18T01:49:12Z",
+            "open_issues": 1,
             "owner": "OUC-VAS",
             "repo": "FacePoison",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         }
@@ -1669,12 +2214,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 374873295,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-18T02:02:55Z",
+            "open_issues": 4,
             "owner": "HighwayWu",
             "repo": "ImageForensicsOSN",
-            "stars": 148
+            "stars": 148,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         },
@@ -1685,12 +2235,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Testing commercial APIs against the threat of deepfakes.",
+            "homepage": null,
             "id": 277429367,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-04-03T17:34:14Z",
+            "open_issues": 0,
             "owner": "shahroztariq",
             "repo": "Deepfake_Impersonation_Attack",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "adversarial-attacks",
+              "adversarial-examples",
+              "awsrekognition",
+              "azure-face-api",
+              "celebrity-recognition",
+              "deepfakes"
+            ]
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         },
@@ -1701,12 +2263,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "source code of 'Preventing Deep Fake Attacks User Authentication by Dynamic Lip Movement Analysis '",
+            "homepage": null,
             "id": 224786574,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-02-18T10:20:29Z",
+            "open_issues": 1,
             "owner": "chenzhao-yang",
             "repo": "lip-based-anti-spoofing",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         }
@@ -1723,12 +2290,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2023 (Highlight)] Self-Supervised Video Forensics by Audio-Visual Anomaly Detection",
+            "homepage": "https://cfeng16.github.io/audio-visual-forensics/",
             "id": 572758615,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-12T22:25:59Z",
+            "open_issues": 5,
             "owner": "cfeng16",
             "repo": "audio-visual-forensics",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         }
@@ -1745,12 +2317,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2023 (Highlight)] Self-Supervised Video Forensics by Audio-Visual Anomaly Detection",
+            "homepage": "https://cfeng16.github.io/audio-visual-forensics/",
             "id": 572758615,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-12T22:25:59Z",
+            "open_issues": 5,
             "owner": "cfeng16",
             "repo": "audio-visual-forensics",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         }
@@ -1767,12 +2344,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official PyTorch implementation for ICCV'21 Oral paper 'Artificial GAN Fingerprints: Rooting Deepfake Attribution in Training Data'",
+            "homepage": null,
             "id": 317038803,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-16T18:26:52Z",
+            "open_issues": 7,
             "owner": "ningyu1991",
             "repo": "ArtificialGANFingerprints",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         },
@@ -1783,12 +2365,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the official repository for the code and datasets in the paper \"Deepfake Network Architecture Attribution\", AAAI 2022.",
+            "homepage": null,
             "id": 439855462,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-07-04T14:56:02Z",
+            "open_issues": 1,
             "owner": "ICTMCG",
             "repo": "DNA-Det",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         }
@@ -1805,12 +2392,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 548684731,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-20T10:26:41Z",
+            "open_issues": 0,
             "owner": "GANG370",
             "repo": "FedForgery",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         }
@@ -1827,12 +2419,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 541575135,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-09-26T13:40:57Z",
+            "open_issues": 0,
             "owner": "Puning97",
             "repo": "CDC_face_forgery_detection",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         }
@@ -1849,12 +2446,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for AAAI 2021 paper \"Domain General Face Forgery Detection by Learning to Weight\" (AAAI 2021).",
+            "homepage": null,
             "id": 320457732,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-12-11T03:39:30Z",
+            "open_issues": 4,
             "owner": "skJack",
             "repo": "LTW",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         }
@@ -1871,12 +2473,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 605518417,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-06-17T07:57:23Z",
+            "open_issues": 0,
             "owner": "gleporoni",
             "repo": "rgbd-depthfake",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         }
@@ -1885,15 +2492,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T11:41:15.110Z",
+    "last_updated": "2026-08-29T04:30:22.244Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of tools, papers and code related to Deepfake Detection.",
+      "homepage": null,
       "id": 381603523,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-09-02T01:56:45Z",
+      "open_issues": 13,
       "owner": "Daisy-Zhang",
       "repo": "Awesome-Deepfakes-Detection",
-      "stars": 1819
+      "stars": 1819,
+      "topics": [
+        "awesome",
+        "code",
+        "dataset",
+        "deepfake-detection",
+        "deepfakes",
+        "image",
+        "paper-with-code",
+        "paperlist",
+        "tools",
+        "video"
+      ]
     },
     "original_repository_sha": "07b77a42d38859b9ec03085bcf38bf6f82d89e40",
     "enhanced_repository": "enhansome/enhansome-Awesome-Deepfakes-Detection",
