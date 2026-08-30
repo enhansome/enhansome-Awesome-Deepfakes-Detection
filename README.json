@@ -155,7 +155,7 @@
                 "id": 833975165,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-08-03T14:15:15Z",
+                "last_commit": "2026-08-30T03:22:47Z",
                 "open_issues": 1,
                 "owner": "xyyandxyy",
                 "repo": "IDForge",
@@ -389,7 +389,7 @@
                 "open_issues": 26,
                 "owner": "chuangchuangtan",
                 "repo": "NPR-DeepfakeDetection",
-                "stars": 312,
+                "stars": 311,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1015,7 +1015,7 @@
                 "open_issues": 98,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1096,
+                "stars": 1095,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1477,7 +1477,7 @@
             "open_issues": 26,
             "owner": "chuangchuangtan",
             "repo": "NPR-DeepfakeDetection",
-            "stars": 312,
+            "stars": 311,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T07:17:28.574Z",
+    "last_updated": "2026-08-30T05:41:36.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
