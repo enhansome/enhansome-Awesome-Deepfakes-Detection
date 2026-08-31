@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2765,
+                "stars": 2766,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T05:41:36.536Z",
+    "last_updated": "2026-08-31T05:57:50.344Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
@@ -2504,7 +2504,7 @@
       "open_issues": 13,
       "owner": "Daisy-Zhang",
       "repo": "Awesome-Deepfakes-Detection",
-      "stars": 1819,
+      "stars": 1821,
       "topics": [
         "awesome",
         "code",
