@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2766,
+                "stars": 2768,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -326,7 +326,7 @@
                 "open_issues": 23,
                 "owner": "PeterWang512",
                 "repo": "CNNDetection",
-                "stars": 1006,
+                "stars": 1005,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -368,7 +368,7 @@
                 "open_issues": 24,
                 "owner": "WisconsinAIVision",
                 "repo": "UniversalFakeDetect",
-                "stars": 371,
+                "stars": 372,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1015,7 +1015,7 @@
                 "open_issues": 98,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1095,
+                "stars": 1097,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T05:57:50.344Z",
+    "last_updated": "2026-09-01T05:30:43.957Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
