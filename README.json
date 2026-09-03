@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2768,
+                "stars": 2769,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -368,7 +368,7 @@
                 "open_issues": 24,
                 "owner": "WisconsinAIVision",
                 "repo": "UniversalFakeDetect",
-                "stars": 372,
+                "stars": 373,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -478,7 +478,7 @@
                 "open_issues": 14,
                 "owner": "grip-unina",
                 "repo": "TruFor",
-                "stars": 271,
+                "stars": 272,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1015,7 +1015,7 @@
                 "open_issues": 98,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1100,
+                "stars": 1102,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1179,7 +1179,7 @@
                 "open_issues": 10,
                 "owner": "RUB-SysSec",
                 "repo": "GANDCTAnalysis",
-                "stars": 201,
+                "stars": 202,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1200,7 +1200,7 @@
                 "open_issues": 26,
                 "owner": "beibuwandeluori",
                 "repo": "DRCT",
-                "stars": 168,
+                "stars": 169,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T04:56:42.021Z",
+    "last_updated": "2026-09-03T04:54:00.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
