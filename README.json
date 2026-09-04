@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2769,
+                "stars": 2771,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -347,7 +347,7 @@
                 "open_issues": 18,
                 "owner": "rshaojimmy",
                 "repo": "MultiModal-DeepFake",
-                "stars": 518,
+                "stars": 517,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T04:54:00.004Z",
+    "last_updated": "2026-09-04T04:58:21.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
