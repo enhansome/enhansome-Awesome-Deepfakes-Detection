@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2770,
+                "stars": 2771,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1060,7 +1060,7 @@
                 "open_issues": 1,
                 "owner": "RUB-SysSec",
                 "repo": "WaveFake",
-                "stars": 92,
+                "stars": 93,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1421,7 +1421,7 @@
             "open_issues": 9,
             "owner": "v0lta",
             "repo": "PyTorch-Wavelet-Toolbox",
-            "stars": 440,
+            "stars": 439,
             "topics": [
               "fast-wavelet-transform",
               "matrix-fwt",
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T04:51:07.263Z",
+    "last_updated": "2026-09-06T04:58:50.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
