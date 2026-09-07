@@ -119,12 +119,12 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 * CNN-generated images are surprisingly easy to spot... for now, *CVPR* 2020: [Paper](https://arxiv.org/abs/1912.11035)    [Github](https://github.com/PeterWang512/CNNDetection) ⭐ 1,005 | 🐛 23 | 🌐 Python | 📅 2024-07-26
 * Detecting and Grounding Multi-Modal Media Manipulation, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Shao_Detecting_and_Grounding_Multi-Modal_Media_Manipulation_CVPR_2023_paper.pdf) [Github](https://github.com/rshaojimmy/MultiModal-DeepFake) ⭐ 516 | 🐛 18 | 🌐 Python | 📅 2024-04-23
-* Towards Universal Fake Image Detectors That Generalize Across Generative Models, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Ojha_Towards_Universal_Fake_Image_Detectors_That_Generalize_Across_Generative_Models_CVPR_2023_paper.pdf) [Github](https://github.com/Yuheng-Li/UniversalFakeDetect) ⭐ 373 | 🐛 24 | 🌐 Python | 📅 2026-08-19
+* Towards Universal Fake Image Detectors That Generalize Across Generative Models, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Ojha_Towards_Universal_Fake_Image_Detectors_That_Generalize_Across_Generative_Models_CVPR_2023_paper.pdf) [Github](https://github.com/Yuheng-Li/UniversalFakeDetect) ⭐ 374 | 🐛 24 | 🌐 Python | 📅 2026-08-19
 * Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection, *CVPR* 2024: [Paper](https://arxiv.org/abs/2312.10461) [Github](https://github.com/chuangchuangtan/NPR-DeepfakeDetection) ⭐ 311 | 🐛 26 | 🌐 Python | 📅 2025-05-01
 * Hierarchical Fine-Grained Image Forgery Detection and Localization, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Guo_Hierarchical_Fine-Grained_Image_Forgery_Detection_and_Localization_CVPR_2023_paper.pdf) [Github](https://github.com/CHELSEA234/HiFi_IFDL) ⭐ 301 | 🐛 14 | 🌐 Python | 📅 2025-07-01
 * Multi-Attentional Deepfake Detection, *CVPR* 2021: [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhao_Multi-Attentional_Deepfake_Detection_CVPR_2021_paper.html)    [Github](https://github.com/yoctta/multiple-attention) ⭐ 275 | 🐛 24 | 🌐 Python | 📅 2022-02-18
+* TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Guillaro_TruFor_Leveraging_All-Round_Clues_for_Trustworthy_Image_Forgery_Detection_and_CVPR_2023_paper.pdf) [Github](https://github.com/grip-unina/TruFor) ⭐ 274 | 🐛 14 | 🌐 Python | 📅 2025-05-29
 * Detecting Deepfakes with Self-Blended Images, *CVPR* 2022: [Paper](https://arxiv.org/abs/2204.08376) [Github](https://github.com/mapooon/SelfBlendedImages) ⭐ 273 | 🐛 26 | 🌐 Python | 📅 2026-03-13
-* TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Guillaro_TruFor_Leveraging_All-Round_Clues_for_Trustworthy_Image_Forgery_Detection_and_CVPR_2023_paper.pdf) [Github](https://github.com/grip-unina/TruFor) ⭐ 272 | 🐛 14 | 🌐 Python | 📅 2025-05-29
 * Implicit Identity Leakage: The Stumbling Block to Improving Deepfake Detection Generalization, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Dong_Implicit_Identity_Leakage_The_Stumbling_Block_to_Improving_Deepfake_Detection_CVPR_2023_paper.pdf) [Github](https://github.com/megvii-research/CADDM) ⭐ 181 | 🐛 28 | 🌐 C++ | 📅 2023-08-15
 * LAA-Net: Localized Artifact Attention Network for Quality-Agnostic and Generalizable Deepfake Detection, *CVPR* 2024: [Paper](https://arxiv.org/pdf/2401.13856) [Github](https://github.com/10Ring/LAA-Net) ⭐ 177 | 🐛 16 | 🌐 Python | 📅 2025-11-26
 * Robust Image Forgery Detection Against Transmission Over Online Social Networks, *CVPR* 2022: [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=9686650) [Github](https://github.com/HighwayWu/ImageForensicsOSN) ⭐ 148 | 🐛 4 | 🌐 Python | 📅 2024-03-18
@@ -136,7 +136,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 * Rethinking Domain Generalization for Face Anti-spoofing: Separability and Alignment, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_Rethinking_Domain_Generalization_for_Face_Anti-Spoofing_Separability_and_Alignment_CVPR_2023_paper.pdf) [Github](https://github.com/sunyiyou/SAFAS) ⭐ 103 | 🐛 5 | 🌐 Python | 📅 2023-04-12
 * Protecting Celebrities from DeepFake with Identity Consistency Transformer, *CVPR* 2022: [Paper](https://arxiv.org/abs/2203.01318v3) [Github](https://github.com/LightDXY/ICT_DeepFake) ⭐ 101 | 🐛 11 | 🌐 Python | 📅 2022-04-18
 * Improving the Efficiency and Robustness of Deepfakes Detection Through Precise Geometric Features, *CVPR* 2021: [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Improving_the_Efficiency_and_Robustness_of_Deepfakes_Detection_Through_Precise_CVPR_2021_paper.pdf)    [Github](https://github.com/frederickszk/LRnet) ⭐ 101 | 🐛 29 | 🌐 Python | 📅 2024-01-08
-* Instance-Aware Domain Generalization for Face Anti-Spoofing, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Instance-Aware_Domain_Generalization_for_Face_Anti-Spoofing_CVPR_2023_paper.pdf) [Github](https://github.com/qianyuzqy/IADG) ⭐ 96 | 🐛 6 | 🌐 Python | 📅 2023-10-19
+* Instance-Aware Domain Generalization for Face Anti-Spoofing, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Instance-Aware_Domain_Generalization_for_Face_Anti-Spoofing_CVPR_2023_paper.pdf) [Github](https://github.com/qianyuzqy/IADG) ⭐ 97 | 🐛 6 | 🌐 Python | 📅 2023-10-19
 * Representative Forgery Mining for Fake Face Detection, *CVPR* 2021: [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Representative_Forgery_Mining_for_Fake_Face_Detection_CVPR_2021_paper.pdf)    [Github](https://github.com/crywang/RFM) ⭐ 83 | 🐛 5 | 🌐 Python | 📅 2025-01-09
 * Preserving Fairness Generalization in Deepfake Detection, *CVPR* 2024: [Paper](https://arxiv.org/pdf/2402.17229) [Github](https://github.com/Purdue-M2/Fairness-Generalization) ⭐ 62 | 🐛 6 | 🌐 Python | 📅 2024-05-31
 * CORE: Consistent Representation Learning for Face Forgery Detection, *CVPR Workshop* 2022: [Paper](https://openaccess.thecvf.com/content/CVPR2022W/WMF/papers/Ni_CORE_COnsistent_REpresentation_Learning_for_Face_Forgery_Detection_CVPRW_2022_paper.pdf) [Github](https://github.com/niyunsheng/CORE) ⭐ 53 | 🐛 0 | 🌐 Python | 📅 2023-04-06
@@ -210,7 +210,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 ### NeurIPS
 
-* DeepfakeBench: A Comprehensive Benchmark of Deepfake Detection, *NeurIPS* 2023: [Paper](https://papers.nips.cc/paper_files/paper/2023/file/0e735e4b4f07de483cbe250130992726-Paper-Datasets_and_Benchmarks.pdf) [Github](https://github.com/SCLBD/DeepfakeBench) ⭐ 1,101 | 🐛 98 | 🌐 Python | 📅 2025-08-20
+* DeepfakeBench: A Comprehensive Benchmark of Deepfake Detection, *NeurIPS* 2023: [Paper](https://papers.nips.cc/paper_files/paper/2023/file/0e735e4b4f07de483cbe250130992726-Paper-Datasets_and_Benchmarks.pdf) [Github](https://github.com/SCLBD/DeepfakeBench) ⭐ 1,102 | 🐛 98 | 🌐 Python | 📅 2025-08-20
 
 * Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes, *NeurIPS* 2024: [Paper](https://nips.cc/virtual/2024/poster/93027) [Github](https://github.com/AaronComo/LipFD) ⭐ 139 | 🐛 16 | 🌐 Python | 📅 2025-02-09
 
@@ -238,7 +238,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 ### ICML
 
 * Leveraging Frequency Analysis for Deep Fake Image Recognition, *ICML* 2020: [Paper](http://proceedings.mlr.press/v119/frank20a/frank20a.pdf)    [Github](https://github.com/RUB-SysSec/GANDCTAnalysis) ⭐ 202 | 🐛 10 | 🌐 Python | 📅 2023-02-15
-* DRCT: Diffusion Reconstruction Contrastive Training towards Universal Detection of Diffusion Generated Images, *ICML* 2024: [Paper](https://proceedings.mlr.press/v235/chen24ay.html) [Github](https://github.com/beibuwandeluori/DRCT) ⭐ 169 | 🐛 26 | 🌐 Python | 📅 2025-04-05
+* DRCT: Diffusion Reconstruction Contrastive Training towards Universal Detection of Diffusion Generated Images, *ICML* 2024: [Paper](https://proceedings.mlr.press/v235/chen24ay.html) [Github](https://github.com/beibuwandeluori/DRCT) ⭐ 168 | 🐛 26 | 🌐 Python | 📅 2025-04-05
 * DistilDIRE: A Small, Fast, Cheap and Lightweight Diffusion Synthesized Deepfake Detection, *ICML Workshop* 2024: [Paper](https://arxiv.org/abs/2406.00856)    [Github](https://github.com/miraflow/DistilDIRE) ⭐ 35 | 🐛 2 | 🌐 Python | 📅 2024-08-02
 * How to Trace Latent Generative Model Generated Images without Artificial Watermark? *ICML* 2024: [Paper](https://proceedings.mlr.press/v235/wang24bj.html)
 
@@ -552,4 +552,4 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

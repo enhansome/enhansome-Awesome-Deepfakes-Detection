@@ -368,7 +368,7 @@
                 "open_issues": 24,
                 "owner": "WisconsinAIVision",
                 "repo": "UniversalFakeDetect",
-                "stars": 373,
+                "stars": 374,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -438,6 +438,27 @@
             },
             {
               "node_type": "item",
+              "title": "TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization, CVPR 2023: Paper",
+              "description": "Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "TruFor",
+                "homepage": null,
+                "id": 575117310,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-05-29T07:46:01Z",
+                "open_issues": 14,
+                "owner": "grip-unina",
+                "repo": "TruFor",
+                "stars": 274,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
+            },
+            {
+              "node_type": "item",
               "title": "Detecting Deepfakes with Self-Blended Images, CVPR 2022: Paper",
               "description": "Github",
               "children": [],
@@ -459,27 +480,6 @@
                   "deepfakes",
                   "image-forensics"
                 ]
-              },
-              "first_seen": "2026-08-28T11:41:15.110Z"
-            },
-            {
-              "node_type": "item",
-              "title": "TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization, CVPR 2023: Paper",
-              "description": "Github",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "TruFor",
-                "homepage": null,
-                "id": 575117310,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-05-29T07:46:01Z",
-                "open_issues": 14,
-                "owner": "grip-unina",
-                "repo": "TruFor",
-                "stars": 272,
-                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -739,7 +739,7 @@
                 "open_issues": 6,
                 "owner": "qianyuzqy",
                 "repo": "IADG",
-                "stars": 96,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1015,7 +1015,7 @@
                 "open_issues": 98,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1101,
+                "stars": 1102,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1200,7 +1200,7 @@
                 "open_issues": 26,
                 "owner": "beibuwandeluori",
                 "repo": "DRCT",
-                "stars": 169,
+                "stars": 168,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T04:58:50.042Z",
+    "last_updated": "2026-09-07T05:05:59.479Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
