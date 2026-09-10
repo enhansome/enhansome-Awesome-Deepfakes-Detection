@@ -119,12 +119,12 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 * CNN-generated images are surprisingly easy to spot... for now, *CVPR* 2020: [Paper](https://arxiv.org/abs/1912.11035)    [Github](https://github.com/PeterWang512/CNNDetection) ⭐ 1,005 | 🐛 23 | 🌐 Python | 📅 2024-07-26
 * Detecting and Grounding Multi-Modal Media Manipulation, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Shao_Detecting_and_Grounding_Multi-Modal_Media_Manipulation_CVPR_2023_paper.pdf) [Github](https://github.com/rshaojimmy/MultiModal-DeepFake) ⭐ 517 | 🐛 18 | 🌐 Python | 📅 2024-04-23
-* Towards Universal Fake Image Detectors That Generalize Across Generative Models, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Ojha_Towards_Universal_Fake_Image_Detectors_That_Generalize_Across_Generative_Models_CVPR_2023_paper.pdf) [Github](https://github.com/Yuheng-Li/UniversalFakeDetect) ⭐ 374 | 🐛 24 | 🌐 Python | 📅 2026-08-19
+* Towards Universal Fake Image Detectors That Generalize Across Generative Models, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Ojha_Towards_Universal_Fake_Image_Detectors_That_Generalize_Across_Generative_Models_CVPR_2023_paper.pdf) [Github](https://github.com/Yuheng-Li/UniversalFakeDetect) ⭐ 375 | 🐛 24 | 🌐 Python | 📅 2026-08-19
 * Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection, *CVPR* 2024: [Paper](https://arxiv.org/abs/2312.10461) [Github](https://github.com/chuangchuangtan/NPR-DeepfakeDetection) ⭐ 311 | 🐛 26 | 🌐 Python | 📅 2025-05-01
 * Hierarchical Fine-Grained Image Forgery Detection and Localization, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Guo_Hierarchical_Fine-Grained_Image_Forgery_Detection_and_Localization_CVPR_2023_paper.pdf) [Github](https://github.com/CHELSEA234/HiFi_IFDL) ⭐ 301 | 🐛 14 | 🌐 Python | 📅 2025-07-01
 * Multi-Attentional Deepfake Detection, *CVPR* 2021: [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhao_Multi-Attentional_Deepfake_Detection_CVPR_2021_paper.html)    [Github](https://github.com/yoctta/multiple-attention) ⭐ 275 | 🐛 24 | 🌐 Python | 📅 2022-02-18
 * TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Guillaro_TruFor_Leveraging_All-Round_Clues_for_Trustworthy_Image_Forgery_Detection_and_CVPR_2023_paper.pdf) [Github](https://github.com/grip-unina/TruFor) ⭐ 274 | 🐛 14 | 🌐 Python | 📅 2025-05-29
-* Detecting Deepfakes with Self-Blended Images, *CVPR* 2022: [Paper](https://arxiv.org/abs/2204.08376) [Github](https://github.com/mapooon/SelfBlendedImages) ⭐ 273 | 🐛 26 | 🌐 Python | 📅 2026-03-13
+* Detecting Deepfakes with Self-Blended Images, *CVPR* 2022: [Paper](https://arxiv.org/abs/2204.08376) [Github](https://github.com/mapooon/SelfBlendedImages) ⭐ 274 | 🐛 26 | 🌐 Python | 📅 2026-03-13
 * Implicit Identity Leakage: The Stumbling Block to Improving Deepfake Detection Generalization, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Dong_Implicit_Identity_Leakage_The_Stumbling_Block_to_Improving_Deepfake_Detection_CVPR_2023_paper.pdf) [Github](https://github.com/megvii-research/CADDM) ⭐ 181 | 🐛 28 | 🌐 C++ | 📅 2023-08-15
 * LAA-Net: Localized Artifact Attention Network for Quality-Agnostic and Generalizable Deepfake Detection, *CVPR* 2024: [Paper](https://arxiv.org/pdf/2401.13856) [Github](https://github.com/10Ring/LAA-Net) ⭐ 177 | 🐛 16 | 🌐 Python | 📅 2025-11-26
 * Robust Image Forgery Detection Against Transmission Over Online Social Networks, *CVPR* 2022: [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=9686650) [Github](https://github.com/HighwayWu/ImageForensicsOSN) ⭐ 148 | 🐛 4 | 🌐 Python | 📅 2024-03-18
@@ -406,7 +406,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 ## Biological Signal
 
-* DeepFakesON-Phys: DeepFakes Detection based on Heart Rate Estimation, *arXiv* 2020: [Paper](https://arxiv.org/abs/2010.00400) [Github](https://github.com/BiDAlab/DeepFakesON-Phys) ⭐ 54 | 🐛 3 | 🌐 Python | 📅 2022-04-12
+* DeepFakesON-Phys: DeepFakes Detection based on Heart Rate Estimation, *arXiv* 2020: [Paper](https://arxiv.org/abs/2010.00400) [Github](https://github.com/BiDAlab/DeepFakesON-Phys) ⭐ 55 | 🐛 3 | 🌐 Python | 📅 2022-04-12
 * Local attention and long-distance interaction of rPPG for deepfake detection, *The Visual Computer* 2023: [Paper](https://link.springer.com/article/10.1007/s00371-023-02833-x)
 * Benchmarking Joint Face Spoofing and Forgery Detection with Visual and Physiological Cues, *arXiv* 2022: [Paper](https://arxiv.org/abs/2208.05401)
 * Visual Representations of Physiological Signals for Fake Video Detection, *arXiv* 2022: [Paper](https://arxiv.org/abs/2207.08380)
@@ -552,4 +552,4 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._

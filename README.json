@@ -368,7 +368,7 @@
                 "open_issues": 24,
                 "owner": "WisconsinAIVision",
                 "repo": "UniversalFakeDetect",
-                "stars": 374,
+                "stars": 375,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -473,7 +473,7 @@
                 "open_issues": 26,
                 "owner": "mapooon",
                 "repo": "SelfBlendedImages",
-                "stars": 273,
+                "stars": 274,
                 "topics": [
                   "deepfake",
                   "deepfake-detection",
@@ -1777,7 +1777,7 @@
             "open_issues": 3,
             "owner": "BiDAlab",
             "repo": "DeepFakesON-Phys",
-            "stars": 54,
+            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T05:02:29.495Z",
+    "last_updated": "2026-09-10T05:05:44.012Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
@@ -2504,7 +2504,7 @@
       "open_issues": 13,
       "owner": "Daisy-Zhang",
       "repo": "Awesome-Deepfakes-Detection",
-      "stars": 1823,
+      "stars": 1824,
       "topics": [
         "awesome",
         "code",
