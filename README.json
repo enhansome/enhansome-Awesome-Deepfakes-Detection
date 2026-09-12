@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2772,
+                "stars": 2773,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -180,7 +180,7 @@
                 "open_issues": 13,
                 "owner": "DASH-Lab",
                 "repo": "FakeAVCeleb",
-                "stars": 120,
+                "stars": 121,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -222,7 +222,7 @@
                 "open_issues": 0,
                 "owner": "OUC-VAS",
                 "repo": "Celeb-DF-PP",
-                "stars": 37,
+                "stars": 38,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -851,7 +851,7 @@
                 "open_issues": 14,
                 "owner": "yinglinzheng",
                 "repo": "FTCN",
-                "stars": 126,
+                "stars": 127,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1015,7 +1015,7 @@
                 "open_issues": 98,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1102,
+                "stars": 1104,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1368,7 +1368,7 @@
                 "open_issues": 13,
                 "owner": "DASH-Lab",
                 "repo": "FakeAVCeleb",
-                "stars": 120,
+                "stars": 121,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T05:02:25.496Z",
+    "last_updated": "2026-09-12T04:54:04.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
