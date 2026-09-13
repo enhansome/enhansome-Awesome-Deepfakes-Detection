@@ -1015,7 +1015,7 @@
                 "open_issues": 98,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1104,
+                "stars": 1105,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1200,7 +1200,7 @@
                 "open_issues": 26,
                 "owner": "beibuwandeluori",
                 "repo": "DRCT",
-                "stars": 168,
+                "stars": 169,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T04:54:04.384Z",
+    "last_updated": "2026-09-13T05:14:55.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
@@ -2504,7 +2504,7 @@
       "open_issues": 13,
       "owner": "Daisy-Zhang",
       "repo": "Awesome-Deepfakes-Detection",
-      "stars": 1825,
+      "stars": 1826,
       "topics": [
         "awesome",
         "code",
