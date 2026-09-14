@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2773,
+                "stars": 2772,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -145,6 +145,27 @@
             },
             {
               "node_type": "item",
+              "title": "FakeAVCeleb: FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset. Paper",
+              "description": "Download",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "FakeAVCeleb",
+                "homepage": null,
+                "id": 400530435,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2021-12-23T05:12:04Z",
+                "open_issues": 13,
+                "owner": "DASH-Lab",
+                "repo": "FakeAVCeleb",
+                "stars": 122,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
+            },
+            {
+              "node_type": "item",
               "title": "IDForge: IDForge: An Identity-driven Multimedia Forgery Dataset. Paper",
               "description": "Download",
               "children": [],
@@ -160,27 +181,6 @@
                 "owner": "xyyandxyy",
                 "repo": "IDForge",
                 "stars": 122,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T11:41:15.110Z"
-            },
-            {
-              "node_type": "item",
-              "title": "FakeAVCeleb: FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset. Paper",
-              "description": "Download",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "FakeAVCeleb",
-                "homepage": null,
-                "id": 400530435,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2021-12-23T05:12:04Z",
-                "open_issues": 13,
-                "owner": "DASH-Lab",
-                "repo": "FakeAVCeleb",
-                "stars": 121,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -326,7 +326,7 @@
                 "open_issues": 23,
                 "owner": "PeterWang512",
                 "repo": "CNNDetection",
-                "stars": 1005,
+                "stars": 1006,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -368,7 +368,7 @@
                 "open_issues": 24,
                 "owner": "WisconsinAIVision",
                 "repo": "UniversalFakeDetect",
-                "stars": 375,
+                "stars": 376,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1036,7 +1036,7 @@
                 "open_issues": 16,
                 "owner": "AaronComo",
                 "repo": "LipFD",
-                "stars": 139,
+                "stars": 140,
                 "topics": [
                   "deepfake-detection",
                   "lipsync"
@@ -1368,7 +1368,7 @@
                 "open_issues": 13,
                 "owner": "DASH-Lab",
                 "repo": "FakeAVCeleb",
-                "stars": 121,
+                "stars": 122,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T05:14:55.350Z",
+    "last_updated": "2026-09-14T05:19:49.008Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
@@ -2504,7 +2504,7 @@
       "open_issues": 13,
       "owner": "Daisy-Zhang",
       "repo": "Awesome-Deepfakes-Detection",
-      "stars": 1826,
+      "stars": 1824,
       "topics": [
         "awesome",
         "code",
