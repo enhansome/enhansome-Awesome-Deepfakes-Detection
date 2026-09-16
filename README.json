@@ -42,7 +42,7 @@
                 "open_issues": 5,
                 "owner": "EndlessSora",
                 "repo": "DeeperForensics-1.0",
-                "stars": 585,
+                "stars": 586,
                 "topics": [
                   "benchmark",
                   "cvpr2020",
@@ -326,7 +326,7 @@
                 "open_issues": 23,
                 "owner": "PeterWang512",
                 "repo": "CNNDetection",
-                "stars": 1006,
+                "stars": 1004,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -417,6 +417,27 @@
             },
             {
               "node_type": "item",
+              "title": "TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization, CVPR 2023: Paper",
+              "description": "Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "TruFor",
+                "homepage": null,
+                "id": 575117310,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-05-29T07:46:01Z",
+                "open_issues": 14,
+                "owner": "grip-unina",
+                "repo": "TruFor",
+                "stars": 275,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
+            },
+            {
+              "node_type": "item",
               "title": "Multi-Attentional Deepfake Detection, CVPR 2021: Paper",
               "description": "Github",
               "children": [],
@@ -432,27 +453,6 @@
                 "owner": "yoctta",
                 "repo": "multiple-attention",
                 "stars": 275,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T11:41:15.110Z"
-            },
-            {
-              "node_type": "item",
-              "title": "TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization, CVPR 2023: Paper",
-              "description": "Github",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "TruFor",
-                "homepage": null,
-                "id": 575117310,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-05-29T07:46:01Z",
-                "open_issues": 14,
-                "owner": "grip-unina",
-                "repo": "TruFor",
-                "stars": 274,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1015,7 +1015,7 @@
                 "open_issues": 98,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1107,
+                "stars": 1108,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1519,7 +1519,7 @@
             "open_issues": 1,
             "owner": "shahroztariq",
             "repo": "CLRNet",
-            "stars": 38,
+            "stars": 37,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T05:11:16.503Z",
+    "last_updated": "2026-09-16T05:06:23.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
@@ -2504,7 +2504,7 @@
       "open_issues": 13,
       "owner": "Daisy-Zhang",
       "repo": "Awesome-Deepfakes-Detection",
-      "stars": 1825,
+      "stars": 1826,
       "topics": [
         "awesome",
         "code",
