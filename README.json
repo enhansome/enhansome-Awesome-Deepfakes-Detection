@@ -117,7 +117,7 @@
                 "open_issues": 7,
                 "owner": "xingjunm",
                 "repo": "wild-deepfake",
-                "stars": 241,
+                "stars": 242,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -326,7 +326,7 @@
                 "open_issues": 23,
                 "owner": "PeterWang512",
                 "repo": "CNNDetection",
-                "stars": 1004,
+                "stars": 1005,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -347,7 +347,7 @@
                 "open_issues": 18,
                 "owner": "rshaojimmy",
                 "repo": "MultiModal-DeepFake",
-                "stars": 517,
+                "stars": 518,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -368,7 +368,7 @@
                 "open_issues": 24,
                 "owner": "WisconsinAIVision",
                 "repo": "UniversalFakeDetect",
-                "stars": 376,
+                "stars": 377,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -389,7 +389,7 @@
                 "open_issues": 26,
                 "owner": "chuangchuangtan",
                 "repo": "NPR-DeepfakeDetection",
-                "stars": 311,
+                "stars": 312,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -438,6 +438,32 @@
             },
             {
               "node_type": "item",
+              "title": "Detecting Deepfakes with Self-Blended Images, CVPR 2022: Paper",
+              "description": "Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR 2022 Oral] Detecting Deepfakes with Self-Blended Images https://arxiv.org/abs/2204.08376",
+                "homepage": null,
+                "id": 483061683,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-03-13T03:19:59Z",
+                "open_issues": 26,
+                "owner": "mapooon",
+                "repo": "SelfBlendedImages",
+                "stars": 275,
+                "topics": [
+                  "deepfake",
+                  "deepfake-detection",
+                  "deepfakes",
+                  "image-forensics"
+                ]
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
+            },
+            {
+              "node_type": "item",
               "title": "Multi-Attentional Deepfake Detection, CVPR 2021: Paper",
               "description": "Github",
               "children": [],
@@ -454,32 +480,6 @@
                 "repo": "multiple-attention",
                 "stars": 275,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T11:41:15.110Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Detecting Deepfakes with Self-Blended Images, CVPR 2022: Paper",
-              "description": "Github",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[CVPR 2022 Oral] Detecting Deepfakes with Self-Blended Images https://arxiv.org/abs/2204.08376",
-                "homepage": null,
-                "id": 483061683,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-03-13T03:19:59Z",
-                "open_issues": 26,
-                "owner": "mapooon",
-                "repo": "SelfBlendedImages",
-                "stars": 274,
-                "topics": [
-                  "deepfake",
-                  "deepfake-detection",
-                  "deepfakes",
-                  "image-forensics"
-                ]
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -760,7 +760,7 @@
                 "open_issues": 5,
                 "owner": "crywang",
                 "repo": "RFM",
-                "stars": 83,
+                "stars": 84,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1015,7 +1015,7 @@
                 "open_issues": 98,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1108,
+                "stars": 1111,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1477,7 +1477,7 @@
             "open_issues": 26,
             "owner": "chuangchuangtan",
             "repo": "NPR-DeepfakeDetection",
-            "stars": 311,
+            "stars": 312,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T05:06:23.069Z",
+    "last_updated": "2026-09-17T05:10:15.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
@@ -2504,7 +2504,7 @@
       "open_issues": 13,
       "owner": "Daisy-Zhang",
       "repo": "Awesome-Deepfakes-Detection",
-      "stars": 1826,
+      "stars": 1825,
       "topics": [
         "awesome",
         "code",
