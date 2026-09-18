@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2772,
+                "stars": 2773,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -326,7 +326,7 @@
                 "open_issues": 23,
                 "owner": "PeterWang512",
                 "repo": "CNNDetection",
-                "stars": 1005,
+                "stars": 1006,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -347,7 +347,7 @@
                 "open_issues": 18,
                 "owner": "rshaojimmy",
                 "repo": "MultiModal-DeepFake",
-                "stars": 518,
+                "stars": 519,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -368,7 +368,7 @@
                 "open_issues": 24,
                 "owner": "WisconsinAIVision",
                 "repo": "UniversalFakeDetect",
-                "stars": 377,
+                "stars": 378,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -545,7 +545,7 @@
                 "open_issues": 4,
                 "owner": "HighwayWu",
                 "repo": "ImageForensicsOSN",
-                "stars": 148,
+                "stars": 149,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -893,7 +893,7 @@
                 "open_issues": 7,
                 "owner": "rainy-xu",
                 "repo": "TALL4Deepfake",
-                "stars": 112,
+                "stars": 113,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1036,7 +1036,7 @@
                 "open_issues": 16,
                 "owner": "AaronComo",
                 "repo": "LipFD",
-                "stars": 140,
+                "stars": 141,
                 "topics": [
                   "deepfake-detection",
                   "lipsync"
@@ -2223,7 +2223,7 @@
             "open_issues": 4,
             "owner": "HighwayWu",
             "repo": "ImageForensicsOSN",
-            "stars": 148,
+            "stars": 149,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T05:10:15.360Z",
+    "last_updated": "2026-09-18T05:03:00.511Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
@@ -2501,7 +2501,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2025-09-02T01:56:45Z",
-      "open_issues": 13,
+      "open_issues": 15,
       "owner": "Daisy-Zhang",
       "repo": "Awesome-Deepfakes-Detection",
       "stars": 1825,
