@@ -410,7 +410,7 @@
                 "open_issues": 14,
                 "owner": "CHELSEA234",
                 "repo": "HiFi_IFDL",
-                "stars": 301,
+                "stars": 302,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1249,7 +1249,7 @@
                 "open_issues": 7,
                 "owner": "AbstractTeen",
                 "repo": "AntiForgery",
-                "stars": 48,
+                "stars": 49,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1660,7 +1660,7 @@
             "open_issues": 14,
             "owner": "CHELSEA234",
             "repo": "HiFi_IFDL",
-            "stars": 301,
+            "stars": 302,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1954,7 +1954,7 @@
             "open_issues": 7,
             "owner": "AbstractTeen",
             "repo": "AntiForgery",
-            "stars": 48,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2154,7 +2154,7 @@
             "open_issues": 7,
             "owner": "AbstractTeen",
             "repo": "AntiForgery",
-            "stars": 48,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T05:03:00.511Z",
+    "last_updated": "2026-09-19T04:54:26.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
