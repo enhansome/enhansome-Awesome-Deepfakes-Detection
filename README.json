@@ -75,7 +75,7 @@
                 "open_issues": 7,
                 "owner": "yuezunli",
                 "repo": "celeb-deepfakeforensics",
-                "stars": 332,
+                "stars": 331,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -96,7 +96,7 @@
                 "open_issues": 7,
                 "owner": "yuezunli",
                 "repo": "celeb-deepfakeforensics",
-                "stars": 332,
+                "stars": 331,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -117,7 +117,7 @@
                 "open_issues": 7,
                 "owner": "xingjunm",
                 "repo": "wild-deepfake",
-                "stars": 242,
+                "stars": 241,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T04:54:26.435Z",
+    "last_updated": "2026-09-20T05:15:46.212Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
