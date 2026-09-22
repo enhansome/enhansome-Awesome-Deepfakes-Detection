@@ -1015,7 +1015,7 @@
                 "open_issues": 98,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1112,
+                "stars": 1113,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T05:18:52.122Z",
+    "last_updated": "2026-09-22T05:17:04.363Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
