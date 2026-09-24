@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2774,
+                "stars": 2775,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -431,7 +431,28 @@
                 "open_issues": 14,
                 "owner": "grip-unina",
                 "repo": "TruFor",
-                "stars": 277,
+                "stars": 278,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Multi-Attentional Deepfake Detection, CVPR 2021: Paper",
+              "description": "Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The code of multi-attention deepfake detection",
+                "homepage": null,
+                "id": 345661318,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2022-02-18T17:53:08Z",
+                "open_issues": 24,
+                "owner": "yoctta",
+                "repo": "multiple-attention",
+                "stars": 276,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -459,27 +480,6 @@
                   "deepfakes",
                   "image-forensics"
                 ]
-              },
-              "first_seen": "2026-08-28T11:41:15.110Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Multi-Attentional Deepfake Detection, CVPR 2021: Paper",
-              "description": "Github",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The code of multi-attention deepfake detection",
-                "homepage": null,
-                "id": 345661318,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2022-02-18T17:53:08Z",
-                "open_issues": 24,
-                "owner": "yoctta",
-                "repo": "multiple-attention",
-                "stars": 275,
-                "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
             },
@@ -1015,7 +1015,7 @@
                 "open_issues": 98,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1115,
+                "stars": 1117,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T05:02:09.806Z",
+    "last_updated": "2026-09-24T05:13:25.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
