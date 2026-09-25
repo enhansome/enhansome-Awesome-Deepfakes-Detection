@@ -389,7 +389,7 @@
                 "open_issues": 26,
                 "owner": "chuangchuangtan",
                 "repo": "NPR-DeepfakeDetection",
-                "stars": 313,
+                "stars": 314,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1477,7 +1477,7 @@
             "open_issues": 26,
             "owner": "chuangchuangtan",
             "repo": "NPR-DeepfakeDetection",
-            "stars": 313,
+            "stars": 314,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T05:13:25.633Z",
+    "last_updated": "2026-09-25T05:14:45.708Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
