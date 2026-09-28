@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2776,
+                "stars": 2777,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -431,7 +431,7 @@
                 "open_issues": 14,
                 "owner": "grip-unina",
                 "repo": "TruFor",
-                "stars": 278,
+                "stars": 279,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T05:36:33.476Z",
+    "last_updated": "2026-09-28T05:44:26.027Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
