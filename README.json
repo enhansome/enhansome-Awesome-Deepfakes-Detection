@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2777,
+                "stars": 2776,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -326,7 +326,7 @@
                 "open_issues": 23,
                 "owner": "PeterWang512",
                 "repo": "CNNDetection",
-                "stars": 1006,
+                "stars": 1007,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -347,7 +347,7 @@
                 "open_issues": 18,
                 "owner": "rshaojimmy",
                 "repo": "MultiModal-DeepFake",
-                "stars": 519,
+                "stars": 520,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -499,7 +499,7 @@
                 "open_issues": 28,
                 "owner": "megvii-research",
                 "repo": "CADDM",
-                "stars": 181,
+                "stars": 182,
                 "topics": [
                   "cnn-classification",
                   "deepfake-detection",
@@ -914,7 +914,7 @@
                 "open_issues": 7,
                 "owner": "ningyu1991",
                 "repo": "ArtificialGANFingerprints",
-                "stars": 79,
+                "stars": 81,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1012,10 +1012,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-08-20T08:03:47Z",
-                "open_issues": 98,
+                "open_issues": 99,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1118,
+                "stars": 1119,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1298,7 +1298,7 @@
                 "open_issues": 4,
                 "owner": "VDIGPKU",
                 "repo": "CMUA-Watermark",
-                "stars": 112,
+                "stars": 113,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1912,7 +1912,7 @@
             "open_issues": 4,
             "owner": "VDIGPKU",
             "repo": "CMUA-Watermark",
-            "stars": 112,
+            "stars": 113,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1933,7 +1933,7 @@
             "open_issues": 7,
             "owner": "ningyu1991",
             "repo": "ArtificialGANFingerprints",
-            "stars": 79,
+            "stars": 81,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2353,7 +2353,7 @@
             "open_issues": 7,
             "owner": "ningyu1991",
             "repo": "ArtificialGANFingerprints",
-            "stars": 79,
+            "stars": 81,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T05:44:26.027Z",
+    "last_updated": "2026-09-29T06:02:03.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
