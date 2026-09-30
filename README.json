@@ -326,7 +326,7 @@
                 "open_issues": 23,
                 "owner": "PeterWang512",
                 "repo": "CNNDetection",
-                "stars": 1007,
+                "stars": 1008,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -431,7 +431,7 @@
                 "open_issues": 14,
                 "owner": "grip-unina",
                 "repo": "TruFor",
-                "stars": 279,
+                "stars": 280,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1015,7 +1015,7 @@
                 "open_issues": 99,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1119,
+                "stars": 1120,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T06:02:03.412Z",
+    "last_updated": "2026-09-30T05:51:39.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
@@ -2504,7 +2504,7 @@
       "open_issues": 15,
       "owner": "Daisy-Zhang",
       "repo": "Awesome-Deepfakes-Detection",
-      "stars": 1826,
+      "stars": 1827,
       "topics": [
         "awesome",
         "code",
