@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2776,
+                "stars": 2777,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -368,7 +368,7 @@
                 "open_issues": 24,
                 "owner": "WisconsinAIVision",
                 "repo": "UniversalFakeDetect",
-                "stars": 378,
+                "stars": 379,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -431,7 +431,7 @@
                 "open_issues": 14,
                 "owner": "grip-unina",
                 "repo": "TruFor",
-                "stars": 280,
+                "stars": 281,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1012,7 +1012,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-08-20T08:03:47Z",
-                "open_issues": 99,
+                "open_issues": 100,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
                 "stars": 1120,
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T05:51:39.102Z",
+    "last_updated": "2026-10-01T06:24:09.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
@@ -2504,7 +2504,7 @@
       "open_issues": 15,
       "owner": "Daisy-Zhang",
       "repo": "Awesome-Deepfakes-Detection",
-      "stars": 1827,
+      "stars": 1828,
       "topics": [
         "awesome",
         "code",
