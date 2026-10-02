@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2777,
+                "stars": 2778,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -159,7 +159,7 @@
                 "open_issues": 13,
                 "owner": "DASH-Lab",
                 "repo": "FakeAVCeleb",
-                "stars": 122,
+                "stars": 123,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1012,7 +1012,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-08-20T08:03:47Z",
-                "open_issues": 100,
+                "open_issues": 101,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
                 "stars": 1120,
@@ -1368,7 +1368,7 @@
                 "open_issues": 13,
                 "owner": "DASH-Lab",
                 "repo": "FakeAVCeleb",
-                "stars": 122,
+                "stars": 123,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1777,7 +1777,7 @@
             "open_issues": 3,
             "owner": "BiDAlab",
             "repo": "DeepFakesON-Phys",
-            "stars": 55,
+            "stars": 56,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T06:24:09.011Z",
+    "last_updated": "2026-10-02T06:02:22.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
