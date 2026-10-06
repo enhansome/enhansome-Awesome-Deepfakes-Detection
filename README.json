@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2779,
+                "stars": 2780,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -117,7 +117,7 @@
                 "open_issues": 7,
                 "owner": "xingjunm",
                 "repo": "wild-deepfake",
-                "stars": 240,
+                "stars": 241,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -524,7 +524,7 @@
                 "open_issues": 16,
                 "owner": "10Ring",
                 "repo": "LAA-Net",
-                "stars": 178,
+                "stars": 179,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1681,7 +1681,7 @@
             "open_issues": 16,
             "owner": "10Ring",
             "repo": "LAA-Net",
-            "stars": 178,
+            "stars": 179,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1804,7 +1804,7 @@
             "open_issues": 16,
             "owner": "10Ring",
             "repo": "LAA-Net",
-            "stars": 178,
+            "stars": 179,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T06:05:07.902Z",
+    "last_updated": "2026-10-06T06:44:47.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
@@ -2504,7 +2504,7 @@
       "open_issues": 15,
       "owner": "Daisy-Zhang",
       "repo": "Awesome-Deepfakes-Detection",
-      "stars": 1828,
+      "stars": 1829,
       "topics": [
         "awesome",
         "code",
