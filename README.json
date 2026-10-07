@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2780,
+                "stars": 2781,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -75,7 +75,7 @@
                 "open_issues": 7,
                 "owner": "yuezunli",
                 "repo": "celeb-deepfakeforensics",
-                "stars": 332,
+                "stars": 333,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -96,7 +96,7 @@
                 "open_issues": 7,
                 "owner": "yuezunli",
                 "repo": "celeb-deepfakeforensics",
-                "stars": 332,
+                "stars": 333,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -368,7 +368,7 @@
                 "open_issues": 24,
                 "owner": "WisconsinAIVision",
                 "repo": "UniversalFakeDetect",
-                "stars": 379,
+                "stars": 380,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1015,7 +1015,7 @@
                 "open_issues": 101,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1121,
+                "stars": 1120,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:29:13.297Z",
+    "last_updated": "2026-10-07T06:20:19.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
