@@ -42,7 +42,7 @@
                 "open_issues": 5,
                 "owner": "EndlessSora",
                 "repo": "DeeperForensics-1.0",
-                "stars": 586,
+                "stars": 587,
                 "topics": [
                   "benchmark",
                   "cvpr2020",
@@ -159,7 +159,7 @@
                 "open_issues": 13,
                 "owner": "DASH-Lab",
                 "repo": "FakeAVCeleb",
-                "stars": 123,
+                "stars": 124,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -347,7 +347,7 @@
                 "open_issues": 18,
                 "owner": "rshaojimmy",
                 "repo": "MultiModal-DeepFake",
-                "stars": 520,
+                "stars": 519,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -851,7 +851,7 @@
                 "open_issues": 14,
                 "owner": "yinglinzheng",
                 "repo": "FTCN",
-                "stars": 127,
+                "stars": 126,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -893,7 +893,7 @@
                 "open_issues": 7,
                 "owner": "rainy-xu",
                 "repo": "TALL4Deepfake",
-                "stars": 113,
+                "stars": 114,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1015,7 +1015,7 @@
                 "open_issues": 101,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1122,
+                "stars": 1123,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1368,7 +1368,7 @@
                 "open_issues": 13,
                 "owner": "DASH-Lab",
                 "repo": "FakeAVCeleb",
-                "stars": 123,
+                "stars": 124,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T06:32:54.404Z",
+    "last_updated": "2026-10-10T06:15:38.573Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
