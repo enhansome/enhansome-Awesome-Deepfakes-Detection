@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2022-12-08T01:43:11Z",
-                "open_issues": 97,
+                "open_issues": 96,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2783,
+                "stars": 2786,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -75,7 +75,7 @@
                 "open_issues": 7,
                 "owner": "yuezunli",
                 "repo": "celeb-deepfakeforensics",
-                "stars": 333,
+                "stars": 334,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -96,7 +96,7 @@
                 "open_issues": 7,
                 "owner": "yuezunli",
                 "repo": "celeb-deepfakeforensics",
-                "stars": 333,
+                "stars": 334,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -452,7 +452,7 @@
                 "open_issues": 26,
                 "owner": "mapooon",
                 "repo": "SelfBlendedImages",
-                "stars": 276,
+                "stars": 277,
                 "topics": [
                   "deepfake",
                   "deepfake-detection",
@@ -1015,7 +1015,7 @@
                 "open_issues": 101,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1123,
+                "stars": 1125,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T06:15:07.218Z",
+    "last_updated": "2026-10-12T06:22:14.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
@@ -2501,10 +2501,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2025-09-02T01:56:45Z",
-      "open_issues": 15,
+      "open_issues": 16,
       "owner": "Daisy-Zhang",
       "repo": "Awesome-Deepfakes-Detection",
-      "stars": 1833,
+      "stars": 1835,
       "topics": [
         "awesome",
         "code",
