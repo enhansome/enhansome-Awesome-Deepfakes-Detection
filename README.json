@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2786,
+                "stars": 2788,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -75,7 +75,7 @@
                 "open_issues": 7,
                 "owner": "yuezunli",
                 "repo": "celeb-deepfakeforensics",
-                "stars": 334,
+                "stars": 336,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -96,7 +96,7 @@
                 "open_issues": 7,
                 "owner": "yuezunli",
                 "repo": "celeb-deepfakeforensics",
-                "stars": 334,
+                "stars": 336,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1015,7 +1015,7 @@
                 "open_issues": 101,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1125,
+                "stars": 1126,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T06:22:14.442Z",
+    "last_updated": "2026-10-13T07:00:40.641Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
@@ -2501,10 +2501,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2025-09-02T01:56:45Z",
-      "open_issues": 16,
+      "open_issues": 17,
       "owner": "Daisy-Zhang",
       "repo": "Awesome-Deepfakes-Detection",
-      "stars": 1835,
+      "stars": 1837,
       "topics": [
         "awesome",
         "code",
