@@ -368,7 +368,7 @@
                 "open_issues": 24,
                 "owner": "WisconsinAIVision",
                 "repo": "UniversalFakeDetect",
-                "stars": 378,
+                "stars": 379,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1015,7 +1015,7 @@
                 "open_issues": 101,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1129,
+                "stars": 1130,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1417,7 +1417,7 @@
             "id": 326435405,
             "language": "Python",
             "license": "EUPL-1.2",
-            "last_commit": "2026-10-13T19:35:19Z",
+            "last_commit": "2026-10-14T14:32:10Z",
             "open_issues": 10,
             "owner": "v0lta",
             "repo": "PyTorch-Wavelet-Toolbox",
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T05:15:08.959Z",
+    "last_updated": "2026-10-15T05:01:53.614Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
