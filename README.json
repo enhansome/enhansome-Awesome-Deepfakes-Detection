@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2790,
+                "stars": 2791,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -42,7 +42,7 @@
                 "open_issues": 5,
                 "owner": "EndlessSora",
                 "repo": "DeeperForensics-1.0",
-                "stars": 587,
+                "stars": 588,
                 "topics": [
                   "benchmark",
                   "cvpr2020",
@@ -347,7 +347,7 @@
                 "open_issues": 18,
                 "owner": "rshaojimmy",
                 "repo": "MultiModal-DeepFake",
-                "stars": 519,
+                "stars": 520,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -478,7 +478,7 @@
                 "open_issues": 24,
                 "owner": "yoctta",
                 "repo": "multiple-attention",
-                "stars": 276,
+                "stars": 277,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1015,7 +1015,7 @@
                 "open_issues": 101,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1130,
+                "stars": 1133,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1421,7 +1421,7 @@
             "open_issues": 10,
             "owner": "v0lta",
             "repo": "PyTorch-Wavelet-Toolbox",
-            "stars": 439,
+            "stars": 440,
             "topics": [
               "fast-wavelet-transform",
               "matrix-fwt",
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T05:01:53.614Z",
+    "last_updated": "2026-10-16T04:51:31.150Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
@@ -2504,7 +2504,7 @@
       "open_issues": 17,
       "owner": "Daisy-Zhang",
       "repo": "Awesome-Deepfakes-Detection",
-      "stars": 1837,
+      "stars": 1840,
       "topics": [
         "awesome",
         "code",
