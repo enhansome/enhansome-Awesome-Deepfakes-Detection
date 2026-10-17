@@ -46,7 +46,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 * **Deeper Forensic-1.0**: DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection. [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_DeeperForensics-1.0_A_Large-Scale_Dataset_for_Real-World_Face_Forgery_Detection_CVPR_2020_paper.pdf)    [Download](https://github.com/EndlessSora/DeeperForensics-1.0) ⭐ 588 | 🐛 5 | 🌐 Python | 📅 2021-07-09
 * **Celeb-DF (v1)**: Celeb-DF: A Large-scale Challenging Dataset for DeepFake Forensics. [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Celeb-DF_A_Large-Scale_Challenging_Dataset_for_DeepFake_Forensics_CVPR_2020_paper.pdf)    [Download](https://github.com/yuezunli/celeb-deepfakeforensics/tree/master/Celeb-DF-v1) ⭐ 336 | 🐛 7 | 📅 2023-07-12
 * **Celeb-DF (v2)**: Celeb-DF: A Large-scale Challenging Dataset for DeepFake Forensics. [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Celeb-DF_A_Large-Scale_Challenging_Dataset_for_DeepFake_Forensics_CVPR_2020_paper.pdf)    [Download](https://github.com/yuezunli/celeb-deepfakeforensics/tree/master/Celeb-DF-v2) ⭐ 336 | 🐛 7 | 📅 2023-07-12
-* **Wild Deepfake**: WildDeepfake: A Challenging Real-World Dataset for Deepfake Detection. [Paper](https://arxiv.org/abs/2101.01456)    [Download](https://github.com/deepfakeinthewild/deepfake-in-the-wild) ⭐ 241 | 🐛 7 | 📅 2025-12-10
+* **Wild Deepfake**: WildDeepfake: A Challenging Real-World Dataset for Deepfake Detection. [Paper](https://arxiv.org/abs/2101.01456)    [Download](https://github.com/deepfakeinthewild/deepfake-in-the-wild) ⭐ 240 | 🐛 7 | 📅 2025-12-10
 * **ForgeryNet**: ForgeryNet: A Versatile Benchmark for Comprehensive Forgery Analysis. [Paper](https://arxiv.org/abs/2103.05630)    [Download](https://github.com/yinanhe/forgerynet) ⭐ 128 | 🐛 22 | 🌐 Python | 📅 2021-07-15
 * **FakeAVCeleb**: FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset. [Paper](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/d9d4f495e875a2e075a1a4a6e1b9770f-Paper-round2.pdf) [Download](https://github.com/DASH-Lab/FakeAVCeleb) ⭐ 124 | 🐛 13 | 🌐 Python | 📅 2021-12-23
 * **IDForge**: IDForge: An Identity-driven Multimedia Forgery Dataset. [Paper](https://arxiv.org/abs/2401.11764) [Download](https://github.com/xyyandxyy/IDForge) ⭐ 122 | 🐛 1 | 📅 2026-08-30
@@ -122,8 +122,8 @@ This repository only collects papers related to Deepfake Detection. If you are a
 * Towards Universal Fake Image Detectors That Generalize Across Generative Models, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Ojha_Towards_Universal_Fake_Image_Detectors_That_Generalize_Across_Generative_Models_CVPR_2023_paper.pdf) [Github](https://github.com/Yuheng-Li/UniversalFakeDetect) ⭐ 379 | 🐛 24 | 🌐 Python | 📅 2026-08-19
 * Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection, *CVPR* 2024: [Paper](https://arxiv.org/abs/2312.10461) [Github](https://github.com/chuangchuangtan/NPR-DeepfakeDetection) ⭐ 315 | 🐛 26 | 🌐 Python | 📅 2025-05-01
 * Hierarchical Fine-Grained Image Forgery Detection and Localization, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Guo_Hierarchical_Fine-Grained_Image_Forgery_Detection_and_Localization_CVPR_2023_paper.pdf) [Github](https://github.com/CHELSEA234/HiFi_IFDL) ⭐ 304 | 🐛 14 | 🌐 Python | 📅 2025-07-01
-* TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Guillaro_TruFor_Leveraging_All-Round_Clues_for_Trustworthy_Image_Forgery_Detection_and_CVPR_2023_paper.pdf) [Github](https://github.com/grip-unina/TruFor) ⭐ 282 | 🐛 14 | 🌐 Python | 📅 2025-05-29
-* Detecting Deepfakes with Self-Blended Images, *CVPR* 2022: [Paper](https://arxiv.org/abs/2204.08376) [Github](https://github.com/mapooon/SelfBlendedImages) ⭐ 277 | 🐛 26 | 🌐 Python | 📅 2026-03-13
+* TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Guillaro_TruFor_Leveraging_All-Round_Clues_for_Trustworthy_Image_Forgery_Detection_and_CVPR_2023_paper.pdf) [Github](https://github.com/grip-unina/TruFor) ⭐ 283 | 🐛 14 | 🌐 Python | 📅 2025-05-29
+* Detecting Deepfakes with Self-Blended Images, *CVPR* 2022: [Paper](https://arxiv.org/abs/2204.08376) [Github](https://github.com/mapooon/SelfBlendedImages) ⭐ 278 | 🐛 26 | 🌐 Python | 📅 2026-03-13
 * Multi-Attentional Deepfake Detection, *CVPR* 2021: [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhao_Multi-Attentional_Deepfake_Detection_CVPR_2021_paper.html)    [Github](https://github.com/yoctta/multiple-attention) ⭐ 277 | 🐛 24 | 🌐 Python | 📅 2022-02-18
 * Implicit Identity Leakage: The Stumbling Block to Improving Deepfake Detection Generalization, *CVPR* 2023: [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Dong_Implicit_Identity_Leakage_The_Stumbling_Block_to_Improving_Deepfake_Detection_CVPR_2023_paper.pdf) [Github](https://github.com/megvii-research/CADDM) ⭐ 182 | 🐛 28 | 🌐 C++ | 📅 2023-08-15
 * LAA-Net: Localized Artifact Attention Network for Quality-Agnostic and Generalizable Deepfake Detection, *CVPR* 2024: [Paper](https://arxiv.org/pdf/2401.13856) [Github](https://github.com/10Ring/LAA-Net) ⭐ 179 | 🐛 16 | 🌐 Python | 📅 2025-11-26
@@ -210,7 +210,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 ### NeurIPS
 
-* DeepfakeBench: A Comprehensive Benchmark of Deepfake Detection, *NeurIPS* 2023: [Paper](https://papers.nips.cc/paper_files/paper/2023/file/0e735e4b4f07de483cbe250130992726-Paper-Datasets_and_Benchmarks.pdf) [Github](https://github.com/SCLBD/DeepfakeBench) ⭐ 1,133 | 🐛 101 | 🌐 Python | 📅 2025-08-20
+* DeepfakeBench: A Comprehensive Benchmark of Deepfake Detection, *NeurIPS* 2023: [Paper](https://papers.nips.cc/paper_files/paper/2023/file/0e735e4b4f07de483cbe250130992726-Paper-Datasets_and_Benchmarks.pdf) [Github](https://github.com/SCLBD/DeepfakeBench) ⭐ 1,132 | 🐛 101 | 🌐 Python | 📅 2025-08-20
 
 * Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes, *NeurIPS* 2024: [Paper](https://nips.cc/virtual/2024/poster/93027) [Github](https://github.com/AaronComo/LipFD) ⭐ 141 | 🐛 16 | 🌐 Python | 📅 2025-02-09
 
@@ -232,7 +232,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 ### ICLR
 
-* Responsible Disclosure of Generative Models Using Scalable Fingerprinting, *ICLR* 2022: [Paper](https://openreview.net/pdf?id=sOK-zS6WHB) [Github](https://github.com/ningyu1991/ScalableGANFingerprints) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2023-04-16
+* Responsible Disclosure of Generative Models Using Scalable Fingerprinting, *ICLR* 2022: [Paper](https://openreview.net/pdf?id=sOK-zS6WHB) [Github](https://github.com/ningyu1991/ScalableGANFingerprints) ⭐ 32 | 🐛 1 | 🌐 Python | 📅 2023-04-16
 * Poisoned Forgery Face: Towards Backdoor Attacks on Face Forgery Detection, *ICLR* 2024: [Paper](https://openreview.net/pdf?id=8iTpB4RNvP) [Github](https://github.com/JWLiang007/PFF) ⭐ 18 | 🐛 4 | 🌐 Python | 📅 2024-04-15
 
 ### ICML
@@ -437,7 +437,7 @@ This repository only collects papers related to Deepfake Detection. If you are a
 * Artificial Fingerprinting for Generative Models: Rooting Deepfake Attribution in Training Data, *ICCV* 2021: [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Yu_Artificial_Fingerprinting_for_Generative_Models_Rooting_Deepfake_Attribution_in_Training_ICCV_2021_paper.html) [Github](https://github.com/ningyu1991/ArtificialGANFingerprints) ⭐ 81 | 🐛 7 | 🌐 Python | 📅 2023-04-16
 * Anti-Forgery: Towards a Stealthy and Robust DeepFake Disruption Attack via Adversarial Perceptual-aware Perturbations, *arXiv* 2022: [Paper](https://arxiv.org/abs/2206.00477) [Github](https://github.com/AbstractTeen/AntiForgery/) ⭐ 49 | 🐛 7 | 🌐 Python | 📅 2022-11-17
 * FaceSigns: Semi-Fragile Neural Watermarks for Media Authentication and Countering Deepfakes, *arXiv* 2022: [Paper](https://arxiv.org/abs/2204.01960) [Github](https://github.com/paarthneekhara/FaceSignsDemo) ⭐ 36 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2022-04-07
-* Responsible Disclosure of Generative Models Using Scalable Fingerprinting, *ICLR* 2022: [Paper](https://openreview.net/forum?id=sOK-zS6WHB) [Github](https://github.com/ningyu1991/ScalableGANFingerprints) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2023-04-16
+* Responsible Disclosure of Generative Models Using Scalable Fingerprinting, *ICLR* 2022: [Paper](https://openreview.net/forum?id=sOK-zS6WHB) [Github](https://github.com/ningyu1991/ScalableGANFingerprints) ⭐ 32 | 🐛 1 | 🌐 Python | 📅 2023-04-16
 * DeepFake Disrupter: The Detector of DeepFake Is My Friend, *CVPR* 2022: [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_DeepFake_Disrupter_The_Detector_of_DeepFake_Is_My_Friend_CVPR_2022_paper.html)
 * FingerprintNet: Synthesized Fingerprints for Generated Image Detection, *ECCV* 2022: [Paper](https://link.springer.com/chapter/10.1007/978-3-031-19781-9_5)
 * Defeating DeepFakes via Adversarial Visual Reconstruction, *ACM MM* 2022: [Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547923?casa_token=ZM9dDIwll78AAAAA:BELSycUIPfukaK-ffgIq8bBY7UKm52-gS1yfunR86wwL5uBCFIVtgEeIQnTahZgW1pPGR67rxotieoo)
@@ -552,4 +552,4 @@ This repository only collects papers related to Deepfake Detection. If you are a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
