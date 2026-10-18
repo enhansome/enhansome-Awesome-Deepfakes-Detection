@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2022-12-08T01:43:11Z",
-                "open_issues": 96,
+                "open_issues": 97,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
                 "stars": 2791,
@@ -222,7 +222,7 @@
                 "open_issues": 0,
                 "owner": "OUC-VAS",
                 "repo": "Celeb-DF-PP",
-                "stars": 38,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -655,7 +655,7 @@
                 "open_issues": 5,
                 "owner": "cfeng16",
                 "repo": "audio-visual-forensics",
-                "stars": 113,
+                "stars": 114,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1417,8 +1417,8 @@
             "id": 326435405,
             "language": "Python",
             "license": "EUPL-1.2",
-            "last_commit": "2026-10-14T14:32:10Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-17T21:58:40Z",
+            "open_issues": 12,
             "owner": "v0lta",
             "repo": "PyTorch-Wavelet-Toolbox",
             "stars": 440,
@@ -2299,7 +2299,7 @@
             "open_issues": 5,
             "owner": "cfeng16",
             "repo": "audio-visual-forensics",
-            "stars": 113,
+            "stars": 114,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2326,7 +2326,7 @@
             "open_issues": 5,
             "owner": "cfeng16",
             "repo": "audio-visual-forensics",
-            "stars": 113,
+            "stars": 114,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T04:52:35.417Z",
+    "last_updated": "2026-10-18T04:59:38.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
