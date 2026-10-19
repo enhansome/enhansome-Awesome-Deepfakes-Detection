@@ -21,7 +21,7 @@
                 "open_issues": 97,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2791,
+                "stars": 2792,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -113,7 +113,7 @@
                 "id": 218060085,
                 "language": null,
                 "license": null,
-                "last_commit": "2025-12-10T09:28:48Z",
+                "last_commit": "2026-10-18T14:34:58Z",
                 "open_issues": 7,
                 "owner": "xingjunm",
                 "repo": "wild-deepfake",
@@ -1015,7 +1015,7 @@
                 "open_issues": 101,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1132,
+                "stars": 1133,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1417,11 +1417,11 @@
             "id": 326435405,
             "language": "Python",
             "license": "EUPL-1.2",
-            "last_commit": "2026-10-17T21:58:40Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-18T20:19:53Z",
+            "open_issues": 10,
             "owner": "v0lta",
             "repo": "PyTorch-Wavelet-Toolbox",
-            "stars": 440,
+            "stars": 441,
             "topics": [
               "fast-wavelet-transform",
               "matrix-fwt",
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T04:59:38.424Z",
+    "last_updated": "2026-10-19T05:07:27.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
@@ -2504,7 +2504,7 @@
       "open_issues": 17,
       "owner": "Daisy-Zhang",
       "repo": "Awesome-Deepfakes-Detection",
-      "stars": 1841,
+      "stars": 1843,
       "topics": [
         "awesome",
         "code",
