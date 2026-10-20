@@ -75,7 +75,7 @@
                 "open_issues": 7,
                 "owner": "yuezunli",
                 "repo": "celeb-deepfakeforensics",
-                "stars": 336,
+                "stars": 337,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -96,7 +96,7 @@
                 "open_issues": 7,
                 "owner": "yuezunli",
                 "repo": "celeb-deepfakeforensics",
-                "stars": 336,
+                "stars": 337,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -793,8 +793,8 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "CORE: COnsistent REpresentation Learning for Face Forgery Detection, CVPRW 22",
-                "homepage": null,
+                "description": "CORE: COnsistent REpresentation Learning for Face Forgery Detection, CVPRW 22, https://arxiv.org/abs/2206.02749",
+                "homepage": "https://openaccess.thecvf.com/content/CVPR2022W/WMF/html/Ni_CORE_COnsistent_REpresentation_Learning_for_Face_Forgery_Detection_CVPRW_2022_paper.html",
                 "id": 479092244,
                 "language": "Python",
                 "license": "MIT",
@@ -1015,7 +1015,7 @@
                 "open_issues": 101,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1133,
+                "stars": 1134,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T05:07:27.871Z",
+    "last_updated": "2026-10-20T05:08:50.478Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
