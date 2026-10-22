@@ -326,7 +326,7 @@
                 "open_issues": 23,
                 "owner": "PeterWang512",
                 "repo": "CNNDetection",
-                "stars": 1008,
+                "stars": 1009,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -781,7 +781,7 @@
                 "open_issues": 6,
                 "owner": "Purdue-M2",
                 "repo": "Fairness-Generalization",
-                "stars": 62,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -848,7 +848,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2024-03-12T06:38:10Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "yinglinzheng",
                 "repo": "FTCN",
                 "stars": 126,
@@ -1421,7 +1421,7 @@
             "open_issues": 10,
             "owner": "v0lta",
             "repo": "PyTorch-Wavelet-Toolbox",
-            "stars": 441,
+            "stars": 442,
             "topics": [
               "fast-wavelet-transform",
               "matrix-fwt",
@@ -1831,7 +1831,7 @@
             "open_issues": 6,
             "owner": "Purdue-M2",
             "repo": "Fairness-Generalization",
-            "stars": 62,
+            "stars": 63,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T05:10:49.041Z",
+    "last_updated": "2026-10-22T05:14:33.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
