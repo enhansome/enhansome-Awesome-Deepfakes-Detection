@@ -326,7 +326,7 @@
                 "open_issues": 23,
                 "owner": "PeterWang512",
                 "repo": "CNNDetection",
-                "stars": 1009,
+                "stars": 1010,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T05:14:33.044Z",
+    "last_updated": "2026-10-23T05:13:18.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
