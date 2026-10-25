@@ -21,7 +21,7 @@
                 "open_issues": 98,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2794,
+                "stars": 2795,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -428,7 +428,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-05-29T07:46:01Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "grip-unina",
                 "repo": "TruFor",
                 "stars": 284,
@@ -524,7 +524,7 @@
                 "open_issues": 16,
                 "owner": "10Ring",
                 "repo": "LAA-Net",
-                "stars": 179,
+                "stars": 180,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1036,7 +1036,7 @@
                 "open_issues": 16,
                 "owner": "AaronComo",
                 "repo": "LipFD",
-                "stars": 141,
+                "stars": 142,
                 "topics": [
                   "deepfake-detection",
                   "lipsync"
@@ -1681,7 +1681,7 @@
             "open_issues": 16,
             "owner": "10Ring",
             "repo": "LAA-Net",
-            "stars": 179,
+            "stars": 180,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1804,7 +1804,7 @@
             "open_issues": 16,
             "owner": "10Ring",
             "repo": "LAA-Net",
-            "stars": 179,
+            "stars": 180,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T04:55:27.560Z",
+    "last_updated": "2026-10-25T05:08:08.807Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
