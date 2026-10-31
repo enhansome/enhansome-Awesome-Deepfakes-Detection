@@ -201,7 +201,7 @@
                 "open_issues": 2,
                 "owner": "tfzhou",
                 "repo": "FFIW",
-                "stars": 57,
+                "stars": 56,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -347,7 +347,7 @@
                 "open_issues": 18,
                 "owner": "rshaojimmy",
                 "repo": "MultiModal-DeepFake",
-                "stars": 520,
+                "stars": 519,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -431,7 +431,7 @@
                 "open_issues": 11,
                 "owner": "grip-unina",
                 "repo": "TruFor",
-                "stars": 284,
+                "stars": 285,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -499,7 +499,7 @@
                 "open_issues": 28,
                 "owner": "megvii-research",
                 "repo": "CADDM",
-                "stars": 182,
+                "stars": 181,
                 "topics": [
                   "cnn-classification",
                   "deepfake-detection",
@@ -781,7 +781,7 @@
                 "open_issues": 6,
                 "owner": "Purdue-M2",
                 "repo": "Fairness-Generalization",
-                "stars": 63,
+                "stars": 64,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -851,7 +851,7 @@
                 "open_issues": 15,
                 "owner": "yinglinzheng",
                 "repo": "FTCN",
-                "stars": 126,
+                "stars": 125,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -914,7 +914,7 @@
                 "open_issues": 7,
                 "owner": "ningyu1991",
                 "repo": "ArtificialGANFingerprints",
-                "stars": 81,
+                "stars": 80,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -963,7 +963,7 @@
                 "open_issues": 9,
                 "owner": "rshaojimmy",
                 "repo": "SeqDeepFake",
-                "stars": 152,
+                "stars": 149,
                 "topics": [
                   "deepfake-detection",
                   "sequential-facial-manipulation"
@@ -1015,7 +1015,7 @@
                 "open_issues": 101,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1136,
+                "stars": 1134,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1036,7 +1036,7 @@
                 "open_issues": 16,
                 "owner": "AaronComo",
                 "repo": "LipFD",
-                "stars": 142,
+                "stars": 141,
                 "topics": [
                   "deepfake-detection",
                   "lipsync"
@@ -1389,7 +1389,7 @@
                 "open_issues": 8,
                 "owner": "abhinavdhall",
                 "repo": "deepfake",
-                "stars": 60,
+                "stars": 59,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1574,30 +1574,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Detecting and Recovering Sequential DeepFake Manipulation, ECCV 2022: Paper",
-          "description": "rshaojimmy/SeqDeepFake",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[ECCV 2022 & IJCV 2025] PyTorch code for SeqDeepFake: Detecting and Recovering Sequential DeepFake Manipulation",
-            "homepage": null,
-            "id": 509358044,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2024-12-03T10:51:16Z",
-            "open_issues": 9,
-            "owner": "rshaojimmy",
-            "repo": "SeqDeepFake",
-            "stars": 152,
-            "topics": [
-              "deepfake-detection",
-              "sequential-facial-manipulation"
-            ]
-          },
-          "first_seen": "2026-08-28T11:41:15.110Z"
-        },
-        {
-          "node_type": "item",
           "title": "What makes fake images detectable? Understanding properties that generalize, arXiv 2020: Paper",
           "description": "chail/patch-forensics",
           "children": [],
@@ -1614,6 +1590,30 @@
             "repo": "patch-forensics",
             "stars": 152,
             "topics": []
+          },
+          "first_seen": "2026-08-28T11:41:15.110Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Detecting and Recovering Sequential DeepFake Manipulation, ECCV 2022: Paper",
+          "description": "rshaojimmy/SeqDeepFake",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[ECCV 2022 & IJCV 2025] PyTorch code for SeqDeepFake: Detecting and Recovering Sequential DeepFake Manipulation",
+            "homepage": null,
+            "id": 509358044,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2024-12-03T10:51:16Z",
+            "open_issues": 9,
+            "owner": "rshaojimmy",
+            "repo": "SeqDeepFake",
+            "stars": 149,
+            "topics": [
+              "deepfake-detection",
+              "sequential-facial-manipulation"
+            ]
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
         },
@@ -1831,7 +1831,7 @@
             "open_issues": 6,
             "owner": "Purdue-M2",
             "repo": "Fairness-Generalization",
-            "stars": 63,
+            "stars": 64,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1933,7 +1933,7 @@
             "open_issues": 7,
             "owner": "ningyu1991",
             "repo": "ArtificialGANFingerprints",
-            "stars": 81,
+            "stars": 80,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2353,7 +2353,7 @@
             "open_issues": 7,
             "owner": "ningyu1991",
             "repo": "ArtificialGANFingerprints",
-            "stars": 81,
+            "stars": 80,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T06:17:35.766Z",
+    "last_updated": "2026-10-31T06:09:14.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
@@ -2504,7 +2504,7 @@
       "open_issues": 19,
       "owner": "Daisy-Zhang",
       "repo": "Awesome-Deepfakes-Detection",
-      "stars": 1847,
+      "stars": 1848,
       "topics": [
         "awesome",
         "code",
