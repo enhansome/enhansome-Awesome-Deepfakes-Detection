@@ -1777,7 +1777,7 @@
             "open_issues": 3,
             "owner": "BiDAlab",
             "repo": "DeepFakesON-Phys",
-            "stars": 57,
+            "stars": 58,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T06:09:14.886Z",
+    "last_updated": "2026-11-01T06:39:13.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
