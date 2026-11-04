@@ -715,7 +715,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-01-08T12:05:31Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "frederickszk",
                 "repo": "LRNet",
                 "stars": 101,
@@ -1519,7 +1519,7 @@
             "open_issues": 1,
             "owner": "shahroztariq",
             "repo": "CLRNet",
-            "stars": 37,
+            "stars": 36,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T07:08:19.722Z",
+    "last_updated": "2026-11-04T06:54:07.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
@@ -2504,7 +2504,7 @@
       "open_issues": 19,
       "owner": "Daisy-Zhang",
       "repo": "Awesome-Deepfakes-Detection",
-      "stars": 1851,
+      "stars": 1852,
       "topics": [
         "awesome",
         "code",
