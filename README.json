@@ -431,7 +431,7 @@
                 "open_issues": 11,
                 "owner": "grip-unina",
                 "repo": "TruFor",
-                "stars": 285,
+                "stars": 286,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T06:54:07.433Z",
+    "last_updated": "2026-11-05T07:12:39.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
