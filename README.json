@@ -21,7 +21,7 @@
                 "open_issues": 98,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2801,
+                "stars": 2802,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -410,7 +410,7 @@
                 "open_issues": 14,
                 "owner": "CHELSEA234",
                 "repo": "HiFi_IFDL",
-                "stars": 304,
+                "stars": 305,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -802,7 +802,7 @@
                 "open_issues": 0,
                 "owner": "niyunsheng",
                 "repo": "CORE",
-                "stars": 52,
+                "stars": 53,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1015,7 +1015,7 @@
                 "open_issues": 101,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1134,
+                "stars": 1137,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1660,7 +1660,7 @@
             "open_issues": 14,
             "owner": "CHELSEA234",
             "repo": "HiFi_IFDL",
-            "stars": 304,
+            "stars": 305,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T07:12:39.716Z",
+    "last_updated": "2026-11-06T07:13:32.211Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
