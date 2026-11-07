@@ -159,7 +159,7 @@
                 "open_issues": 13,
                 "owner": "DASH-Lab",
                 "repo": "FakeAVCeleb",
-                "stars": 124,
+                "stars": 125,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1368,7 +1368,7 @@
                 "open_issues": 13,
                 "owner": "DASH-Lab",
                 "repo": "FakeAVCeleb",
-                "stars": 124,
+                "stars": 125,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1421,7 +1421,7 @@
             "open_issues": 8,
             "owner": "v0lta",
             "repo": "PyTorch-Wavelet-Toolbox",
-            "stars": 442,
+            "stars": 443,
             "topics": [
               "fast-wavelet-transform",
               "matrix-fwt",
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T07:13:32.211Z",
+    "last_updated": "2026-11-07T06:27:16.854Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
