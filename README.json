@@ -1421,7 +1421,7 @@
             "open_issues": 8,
             "owner": "v0lta",
             "repo": "PyTorch-Wavelet-Toolbox",
-            "stars": 443,
+            "stars": 444,
             "topics": [
               "fast-wavelet-transform",
               "matrix-fwt",
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T06:27:16.854Z",
+    "last_updated": "2026-11-08T06:33:31.551Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
