@@ -389,7 +389,7 @@
                 "open_issues": 27,
                 "owner": "chuangchuangtan",
                 "repo": "NPR-DeepfakeDetection",
-                "stars": 317,
+                "stars": 318,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -620,27 +620,6 @@
             },
             {
               "node_type": "item",
-              "title": "Learning on Gradients: Generalized Artifacts Representation for GAN-Generated Images Detection, CVPR 2023: Paper",
-              "description": "chuangchuangtan/LGrad",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Code for the paper: Learning on Gradients: Generalized Artifacts Representation for GAN-Generated Images Detection",
-                "homepage": null,
-                "id": 609733305,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2023-08-17T08:15:25Z",
-                "open_issues": 7,
-                "owner": "chuangchuangtan",
-                "repo": "LGrad",
-                "stars": 114,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T11:41:15.110Z"
-            },
-            {
-              "node_type": "item",
               "title": "Self-Supervised Video Forensics by Audio-Visual Anomaly Detection, CVPR 2023: Paper",
               "description": "cfeng16/audio-visual-forensics",
               "children": [],
@@ -655,6 +634,27 @@
                 "open_issues": 5,
                 "owner": "cfeng16",
                 "repo": "audio-visual-forensics",
+                "stars": 115,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T11:41:15.110Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Learning on Gradients: Generalized Artifacts Representation for GAN-Generated Images Detection, CVPR 2023: Paper",
+              "description": "chuangchuangtan/LGrad",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code for the paper: Learning on Gradients: Generalized Artifacts Representation for GAN-Generated Images Detection",
+                "homepage": null,
+                "id": 609733305,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2023-08-17T08:15:25Z",
+                "open_issues": 7,
+                "owner": "chuangchuangtan",
+                "repo": "LGrad",
                 "stars": 114,
                 "topics": []
               },
@@ -1015,7 +1015,7 @@
                 "open_issues": 101,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1138,
+                "stars": 1139,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1477,7 +1477,7 @@
             "open_issues": 27,
             "owner": "chuangchuangtan",
             "repo": "NPR-DeepfakeDetection",
-            "stars": 317,
+            "stars": 318,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2299,7 +2299,7 @@
             "open_issues": 5,
             "owner": "cfeng16",
             "repo": "audio-visual-forensics",
-            "stars": 114,
+            "stars": 115,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2326,7 +2326,7 @@
             "open_issues": 5,
             "owner": "cfeng16",
             "repo": "audio-visual-forensics",
-            "stars": 114,
+            "stars": 115,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T06:58:00.098Z",
+    "last_updated": "2026-11-12T07:34:56.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
