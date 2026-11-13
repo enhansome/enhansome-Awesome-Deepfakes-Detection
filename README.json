@@ -431,7 +431,7 @@
                 "open_issues": 11,
                 "owner": "grip-unina",
                 "repo": "TruFor",
-                "stars": 287,
+                "stars": 286,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1015,7 +1015,7 @@
                 "open_issues": 101,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1139,
+                "stars": 1140,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T07:34:56.197Z",
+    "last_updated": "2026-11-13T07:05:12.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
@@ -2504,7 +2504,7 @@
       "open_issues": 20,
       "owner": "Daisy-Zhang",
       "repo": "Awesome-Deepfakes-Detection",
-      "stars": 1851,
+      "stars": 1852,
       "topics": [
         "awesome",
         "code",
