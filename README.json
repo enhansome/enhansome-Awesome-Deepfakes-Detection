@@ -613,7 +613,7 @@
                 "open_issues": 12,
                 "owner": "JStehouwer",
                 "repo": "FFD_CVPR2020",
-                "stars": 117,
+                "stars": 116,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -963,7 +963,7 @@
                 "open_issues": 9,
                 "owner": "rshaojimmy",
                 "repo": "SeqDeepFake",
-                "stars": 150,
+                "stars": 151,
                 "topics": [
                   "deepfake-detection",
                   "sequential-facial-manipulation"
@@ -1609,7 +1609,7 @@
             "open_issues": 9,
             "owner": "rshaojimmy",
             "repo": "SeqDeepFake",
-            "stars": 150,
+            "stars": 151,
             "topics": [
               "deepfake-detection",
               "sequential-facial-manipulation"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T07:00:17.287Z",
+    "last_updated": "2026-11-16T07:08:04.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
