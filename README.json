@@ -524,7 +524,7 @@
                 "open_issues": 16,
                 "owner": "10Ring",
                 "repo": "LAA-Net",
-                "stars": 180,
+                "stars": 179,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -893,7 +893,7 @@
                 "open_issues": 7,
                 "owner": "rainy-xu",
                 "repo": "TALL4Deepfake",
-                "stars": 115,
+                "stars": 114,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1681,7 +1681,7 @@
             "open_issues": 16,
             "owner": "10Ring",
             "repo": "LAA-Net",
-            "stars": 180,
+            "stars": 179,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1804,7 +1804,7 @@
             "open_issues": 16,
             "owner": "10Ring",
             "repo": "LAA-Net",
-            "stars": 180,
+            "stars": 179,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T07:51:27.624Z",
+    "last_updated": "2026-11-19T07:47:32.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
