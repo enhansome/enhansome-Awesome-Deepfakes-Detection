@@ -21,7 +21,7 @@
                 "open_issues": 98,
                 "owner": "ondyari",
                 "repo": "FaceForensics",
-                "stars": 2805,
+                "stars": 2806,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -42,7 +42,7 @@
                 "open_issues": 5,
                 "owner": "EndlessSora",
                 "repo": "DeeperForensics-1.0",
-                "stars": 588,
+                "stars": 589,
                 "topics": [
                   "benchmark",
                   "cvpr2020",
@@ -75,7 +75,7 @@
                 "open_issues": 7,
                 "owner": "yuezunli",
                 "repo": "celeb-deepfakeforensics",
-                "stars": 338,
+                "stars": 339,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -96,7 +96,7 @@
                 "open_issues": 7,
                 "owner": "yuezunli",
                 "repo": "celeb-deepfakeforensics",
-                "stars": 338,
+                "stars": 339,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1015,7 +1015,7 @@
                 "open_issues": 100,
                 "owner": "SCLBD",
                 "repo": "DeepfakeBench",
-                "stars": 1144,
+                "stars": 1145,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T08:01:43.171Z",
+    "last_updated": "2026-11-24T10:17:55.708Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
@@ -2504,7 +2504,7 @@
       "open_issues": 18,
       "owner": "Daisy-Zhang",
       "repo": "Awesome-Deepfakes-Detection",
-      "stars": 1856,
+      "stars": 1857,
       "topics": [
         "awesome",
         "code",
