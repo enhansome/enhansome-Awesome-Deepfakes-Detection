@@ -851,7 +851,7 @@
                 "open_issues": 15,
                 "owner": "yinglinzheng",
                 "repo": "FTCN",
-                "stars": 125,
+                "stars": 126,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1852,7 +1852,7 @@
             "open_issues": 1,
             "owner": "pterhoer",
             "repo": "DeepFakeAnnotations",
-            "stars": 16,
+            "stars": 17,
             "topics": [
               "deepfake",
               "deepfake-detection",
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T10:17:55.708Z",
+    "last_updated": "2026-11-25T08:59:50.174Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
@@ -2504,7 +2504,7 @@
       "open_issues": 18,
       "owner": "Daisy-Zhang",
       "repo": "Awesome-Deepfakes-Detection",
-      "stars": 1857,
+      "stars": 1858,
       "topics": [
         "awesome",
         "code",
