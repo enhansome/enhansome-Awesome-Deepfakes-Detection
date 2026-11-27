@@ -431,7 +431,7 @@
                 "open_issues": 11,
                 "owner": "grip-unina",
                 "repo": "TruFor",
-                "stars": 287,
+                "stars": 288,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:15.110Z"
@@ -1036,7 +1036,7 @@
                 "open_issues": 16,
                 "owner": "AaronComo",
                 "repo": "LipFD",
-                "stars": 141,
+                "stars": 142,
                 "topics": [
                   "deepfake-detection",
                   "lipsync"
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T08:46:46.012Z",
+    "last_updated": "2026-11-27T08:57:41.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of tools, papers and code related to Deepfake Detection.",
@@ -2504,7 +2504,7 @@
       "open_issues": 18,
       "owner": "Daisy-Zhang",
       "repo": "Awesome-Deepfakes-Detection",
-      "stars": 1858,
+      "stars": 1859,
       "topics": [
         "awesome",
         "code",
